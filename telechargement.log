@@ -1,0 +1,1470 @@
+2026-05-24 23:58:25  INFO      ============================================================
+2026-05-24 23:58:25  INFO      Démarrage du téléchargement IONEX 2023
+2026-05-24 23:58:25  INFO      Centres : CODE + JPL | Jours : 001 à 365
+2026-05-24 23:58:25  INFO      Dossier de sortie : C:\Users\hp\OneDrive\traveaux_memoire_EGNOS\Code\data\ionex\2023
+2026-05-24 23:58:25  INFO      ============================================================
+2026-05-24 23:58:37  INFO      OK       Jour 001 CODE : COD0OPSFIN_20230010000_01D_01H_GIM.INX.gz
+2026-05-24 23:58:40  INFO      OK       Jour 001 JPL : jplg0010.23i.Z
+2026-05-24 23:58:46  INFO      OK       Jour 002 CODE : COD0OPSFIN_20230020000_01D_01H_GIM.INX.gz
+2026-05-24 23:58:52  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-24 23:59:09  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-24 23:59:36  WARNING     Erreur réseau - tentative 3/3
+2026-05-24 23:59:51  ERROR     ÉCHEC    Jour 002 JPL : jplg0020.23i.Z
+2026-05-24 23:59:55  INFO      OK       Jour 003 CODE : COD0OPSFIN_20230030000_01D_01H_GIM.INX.gz
+2026-05-25 00:00:00  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:00:10  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:00:34  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:00:49  ERROR     ÉCHEC    Jour 003 JPL : jplg0030.23i.Z
+2026-05-25 00:00:59  INFO      OK       Jour 004 CODE : COD0OPSFIN_20230040000_01D_01H_GIM.INX.gz
+2026-05-25 00:01:02  INFO      OK       Jour 004 JPL : jplg0040.23i.Z
+2026-05-25 00:01:05  INFO      OK       Jour 005 CODE : COD0OPSFIN_20230050000_01D_01H_GIM.INX.gz
+2026-05-25 00:01:12  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:01:32  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:01:53  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:02:08  ERROR     ÉCHEC    Jour 005 JPL : jplg0050.23i.Z
+2026-05-25 00:02:23  INFO      OK       Jour 006 CODE : COD0OPSFIN_20230060000_01D_01H_GIM.INX.gz
+2026-05-25 00:02:28  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:02:54  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:03:11  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:03:26  ERROR     ÉCHEC    Jour 006 JPL : jplg0060.23i.Z
+2026-05-25 00:03:38  INFO      OK       Jour 007 CODE : COD0OPSFIN_20230070000_01D_01H_GIM.INX.gz
+2026-05-25 00:03:44  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:05:12  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 00:05:27  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:05:42  ERROR     ÉCHEC    Jour 007 JPL : jplg0070.23i.Z
+2026-05-25 00:05:52  INFO      OK       Jour 008 CODE : COD0OPSFIN_20230080000_01D_01H_GIM.INX.gz
+2026-05-25 00:05:59  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:06:16  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:06:37  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:06:52  ERROR     ÉCHEC    Jour 008 JPL : jplg0080.23i.Z
+2026-05-25 00:07:03  INFO      OK       Jour 009 CODE : COD0OPSFIN_20230090000_01D_01H_GIM.INX.gz
+2026-05-25 00:07:10  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:07:35  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:08:54  WARNING     Timeout - tentative 3/3
+2026-05-25 00:09:09  ERROR     ÉCHEC    Jour 009 JPL : jplg0090.23i.Z
+2026-05-25 00:09:26  INFO      OK       Jour 010 CODE : COD0OPSFIN_20230100000_01D_01H_GIM.INX.gz
+2026-05-25 00:09:35  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:09:57  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:10:10  INFO      OK       Jour 010 JPL : jplg0100.23i.Z
+2026-05-25 00:10:36  INFO      OK       Jour 011 CODE : COD0OPSFIN_20230110000_01D_01H_GIM.INX.gz
+2026-05-25 00:10:46  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:11:02  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:11:18  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:11:33  ERROR     ÉCHEC    Jour 011 JPL : jplg0110.23i.Z
+2026-05-25 00:12:23  INFO      OK       Jour 012 CODE : COD0OPSFIN_20230120000_01D_01H_GIM.INX.gz
+2026-05-25 00:12:52  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 00:13:08  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 00:14:33  WARNING     Timeout - tentative 3/3
+2026-05-25 00:14:48  ERROR     ÉCHEC    Jour 012 JPL : jplg0120.23i.Z
+2026-05-25 00:15:10  INFO      OK       Jour 013 CODE : COD0OPSFIN_20230130000_01D_01H_GIM.INX.gz
+2026-05-25 00:16:18  WARNING     Timeout - tentative 1/3
+2026-05-25 00:16:33  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:16:51  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:17:06  ERROR     ÉCHEC    Jour 013 JPL : jplg0130.23i.Z
+2026-05-25 00:17:48  INFO      OK       Jour 014 CODE : COD0OPSFIN_20230140000_01D_01H_GIM.INX.gz
+2026-05-25 00:18:01  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 00:18:19  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 00:18:46  WARNING     Erreur réseau - tentative 3/3
+2026-05-25 00:19:01  ERROR     ÉCHEC    Jour 014 JPL : jplg0140.23i.Z
+2026-05-25 00:19:19  INFO      OK       Jour 015 CODE : COD0OPSFIN_20230150000_01D_01H_GIM.INX.gz
+2026-05-25 00:19:28  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:20:46  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 00:21:03  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:21:18  ERROR     ÉCHEC    Jour 015 JPL : jplg0150.23i.Z
+2026-05-25 00:21:38  INFO      OK       Jour 016 CODE : COD0OPSFIN_20230160000_01D_01H_GIM.INX.gz
+2026-05-25 00:21:47  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:22:10  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:23:26  WARNING     Erreur réseau - tentative 3/3
+2026-05-25 00:23:41  ERROR     ÉCHEC    Jour 016 JPL : jplg0160.23i.Z
+2026-05-25 00:23:58  INFO      OK       Jour 017 CODE : COD0OPSFIN_20230170000_01D_01H_GIM.INX.gz
+2026-05-25 00:24:05  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:24:27  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:25:45  WARNING     Erreur réseau - tentative 3/3
+2026-05-25 00:26:00  ERROR     ÉCHEC    Jour 017 JPL : jplg0170.23i.Z
+2026-05-25 00:26:12  INFO      OK       Jour 018 CODE : COD0OPSFIN_20230180000_01D_01H_GIM.INX.gz
+2026-05-25 00:27:21  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 00:27:33  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:27:53  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:28:08  ERROR     ÉCHEC    Jour 018 JPL : jplg0180.23i.Z
+2026-05-25 00:28:44  INFO      OK       Jour 019 CODE : COD0OPSFIN_20230190000_01D_01H_GIM.INX.gz
+2026-05-25 00:29:03  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 00:29:18  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 00:29:34  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:29:49  ERROR     ÉCHEC    Jour 019 JPL : jplg0190.23i.Z
+2026-05-25 00:30:10  INFO      OK       Jour 020 CODE : COD0OPSFIN_20230200000_01D_01H_GIM.INX.gz
+2026-05-25 00:30:17  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:30:41  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 00:30:58  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:31:13  ERROR     ÉCHEC    Jour 020 JPL : jplg0200.23i.Z
+2026-05-25 00:31:32  INFO      OK       Jour 021 CODE : COD0OPSFIN_20230210000_01D_01H_GIM.INX.gz
+2026-05-25 00:32:38  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 00:33:48  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 00:34:05  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 00:34:20  ERROR     ÉCHEC    Jour 021 JPL : jplg0210.23i.Z
+2026-05-25 00:35:41  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 00:36:19  INFO      OK       Jour 022 CODE : COD0OPSFIN_20230220000_01D_01H_GIM.INX.gz
+2026-05-25 00:36:33  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 00:37:57  WARNING     Timeout - tentative 2/3
+2026-05-25 00:47:50  WARNING     Erreur réseau - tentative 3/3
+2026-05-25 01:45:09  ERROR     ÉCHEC    Jour 022 JPL : jplg0220.23i.Z
+2026-05-25 01:45:10  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 08:41:59  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 08:42:17  INFO      OK       Jour 023 CODE : COD0OPSFIN_20230230000_01D_01H_GIM.INX.gz
+2026-05-25 08:42:21  INFO      OK       Jour 023 JPL : jplg0230.23i.Z
+2026-05-25 08:42:28  INFO      OK       Jour 024 CODE : COD0OPSFIN_20230240000_01D_01H_GIM.INX.gz
+2026-05-25 08:42:34  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:42:52  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:43:18  WARNING     Erreur réseau - tentative 3/3
+2026-05-25 08:43:33  ERROR     ÉCHEC    Jour 024 JPL : jplg0240.23i.Z
+2026-05-25 08:43:39  INFO      OK       Jour 025 CODE : COD0OPSFIN_20230250000_01D_01H_GIM.INX.gz
+2026-05-25 08:43:46  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:44:07  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:44:23  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 08:44:38  ERROR     ÉCHEC    Jour 025 JPL : jplg0250.23i.Z
+2026-05-25 08:44:47  INFO      OK       Jour 026 CODE : COD0OPSFIN_20230260000_01D_01H_GIM.INX.gz
+2026-05-25 08:44:53  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:46:12  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 08:46:24  INFO      OK       Jour 026 JPL : jplg0260.23i.Z
+2026-05-25 08:46:37  INFO      OK       Jour 027 CODE : COD0OPSFIN_20230270000_01D_01H_GIM.INX.gz
+2026-05-25 08:46:40  INFO      OK       Jour 027 JPL : jplg0270.23i.Z
+2026-05-25 08:46:46  INFO      OK       Jour 028 CODE : COD0OPSFIN_20230280000_01D_01H_GIM.INX.gz
+2026-05-25 08:47:01  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:47:33  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 08:47:45  INFO      OK       Jour 028 JPL : jplg0280.23i.Z
+2026-05-25 08:47:58  INFO      OK       Jour 029 CODE : COD0OPSFIN_20230290000_01D_01H_GIM.INX.gz
+2026-05-25 08:48:04  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:48:26  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:48:41  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 08:48:56  ERROR     ÉCHEC    Jour 029 JPL : jplg0290.23i.Z
+2026-05-25 08:49:05  INFO      OK       Jour 030 CODE : COD0OPSFIN_20230300000_01D_01H_GIM.INX.gz
+2026-05-25 08:49:11  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:49:40  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:50:00  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 08:50:15  ERROR     ÉCHEC    Jour 030 JPL : jplg0300.23i.Z
+2026-05-25 08:50:22  INFO      OK       Jour 031 CODE : COD0OPSFIN_20230310000_01D_01H_GIM.INX.gz
+2026-05-25 08:50:28  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:50:46  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:52:03  WARNING     Erreur réseau - tentative 3/3
+2026-05-25 08:52:18  ERROR     ÉCHEC    Jour 031 JPL : jplg0310.23i.Z
+2026-05-25 08:52:22  INFO      OK       Jour 032 CODE : COD0OPSFIN_20230320000_01D_01H_GIM.INX.gz
+2026-05-25 08:52:25  INFO      OK       Jour 032 JPL : jplg0320.23i.Z
+2026-05-25 08:52:29  INFO      OK       Jour 033 CODE : COD0OPSFIN_20230330000_01D_01H_GIM.INX.gz
+2026-05-25 08:52:36  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:52:51  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:53:20  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 08:53:35  ERROR     ÉCHEC    Jour 033 JPL : jplg0330.23i.Z
+2026-05-25 08:53:48  INFO      OK       Jour 034 CODE : COD0OPSFIN_20230340000_01D_01H_GIM.INX.gz
+2026-05-25 08:54:02  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:54:13  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:54:29  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 08:54:44  ERROR     ÉCHEC    Jour 034 JPL : jplg0340.23i.Z
+2026-05-25 08:54:55  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:55:06  INFO      OK       Jour 035 CODE : COD0OPSFIN_20230350000_01D_01H_GIM.INX.gz
+2026-05-25 08:55:29  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:55:38  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:55:53  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 08:56:08  ERROR     ÉCHEC    Jour 035 JPL : jplg0350.23i.Z
+2026-05-25 08:56:19  INFO      OK       Jour 036 CODE : COD0OPSFIN_20230360000_01D_01H_GIM.INX.gz
+2026-05-25 08:56:37  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:56:48  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 08:57:04  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 08:57:19  ERROR     ÉCHEC    Jour 036 JPL : jplg0360.23i.Z
+2026-05-25 08:57:26  INFO      OK       Jour 037 CODE : COD0OPSFIN_20230370000_01D_01H_GIM.INX.gz
+2026-05-25 08:57:31  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:57:49  INFO      OK       Jour 037 JPL : jplg0370.23i.Z
+2026-05-25 08:57:53  INFO      OK       Jour 038 CODE : COD0OPSFIN_20230380000_01D_01H_GIM.INX.gz
+2026-05-25 08:57:58  INFO      OK       Jour 038 JPL : jplg0380.23i.Z
+2026-05-25 08:58:25  INFO      OK       Jour 039 CODE : COD0OPSFIN_20230390000_01D_01H_GIM.INX.gz
+2026-05-25 08:58:47  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 08:59:00  INFO      OK       Jour 039 JPL : jplg0390.23i.Z
+2026-05-25 08:59:13  INFO      OK       Jour 040 CODE : COD0OPSFIN_20230400000_01D_01H_GIM.INX.gz
+2026-05-25 08:59:16  INFO      OK       Jour 040 JPL : jplg0400.23i.Z
+2026-05-25 08:59:43  INFO      OK       Jour 041 CODE : COD0OPSFIN_20230410000_01D_01H_GIM.INX.gz
+2026-05-25 08:59:46  INFO      OK       Jour 041 JPL : jplg0410.23i.Z
+2026-05-25 09:00:08  INFO      OK       Jour 042 CODE : COD0OPSFIN_20230420000_01D_01H_GIM.INX.gz
+2026-05-25 09:00:25  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 09:00:37  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 09:00:49  INFO      OK       Jour 042 JPL : jplg0420.23i.Z
+2026-05-25 09:01:04  INFO      OK       Jour 043 CODE : COD0OPSFIN_20230430000_01D_01H_GIM.INX.gz
+2026-05-25 09:01:19  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 09:01:29  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 09:01:44  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 09:01:59  ERROR     ÉCHEC    Jour 043 JPL : jplg0430.23i.Z
+2026-05-25 09:02:04  INFO      OK       Jour 044 CODE : COD0OPSFIN_20230440000_01D_01H_GIM.INX.gz
+2026-05-25 09:02:08  INFO      OK       Jour 044 JPL : jplg0440.23i.Z
+2026-05-25 09:02:12  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 09:02:19  INFO      OK       Jour 045 CODE : COD0OPSFIN_20230450000_01D_01H_GIM.INX.gz
+2026-05-25 09:02:25  INFO      OK       Jour 045 JPL : jplg0450.23i.Z
+2026-05-25 09:02:28  INFO      OK       Jour 046 CODE : COD0OPSFIN_20230460000_01D_01H_GIM.INX.gz
+2026-05-25 09:02:32  INFO      OK       Jour 046 JPL : jplg0460.23i.Z
+2026-05-25 09:02:37  INFO      OK       Jour 047 CODE : COD0OPSFIN_20230470000_01D_01H_GIM.INX.gz
+2026-05-25 09:02:40  INFO      OK       Jour 047 JPL : jplg0470.23i.Z
+2026-05-25 09:02:45  INFO      OK       Jour 048 CODE : COD0OPSFIN_20230480000_01D_01H_GIM.INX.gz
+2026-05-25 09:02:49  INFO      OK       Jour 048 JPL : jplg0480.23i.Z
+2026-05-25 09:02:52  INFO      OK       Jour 049 CODE : COD0OPSFIN_20230490000_01D_01H_GIM.INX.gz
+2026-05-25 09:02:55  INFO      OK       Jour 049 JPL : jplg0490.23i.Z
+2026-05-25 09:03:01  INFO      OK       Jour 050 CODE : COD0OPSFIN_20230500000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:04  INFO      OK       Jour 050 JPL : jplg0500.23i.Z
+2026-05-25 09:03:07  INFO      OK       Jour 051 CODE : COD0OPSFIN_20230510000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:10  INFO      OK       Jour 051 JPL : jplg0510.23i.Z
+2026-05-25 09:03:13  INFO      OK       Jour 052 CODE : COD0OPSFIN_20230520000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:17  INFO      OK       Jour 052 JPL : jplg0520.23i.Z
+2026-05-25 09:03:20  INFO      OK       Jour 053 CODE : COD0OPSFIN_20230530000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:25  INFO      OK       Jour 053 JPL : jplg0530.23i.Z
+2026-05-25 09:03:29  INFO      OK       Jour 054 CODE : COD0OPSFIN_20230540000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:32  INFO      OK       Jour 054 JPL : jplg0540.23i.Z
+2026-05-25 09:03:37  INFO      OK       Jour 055 CODE : COD0OPSFIN_20230550000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:40  INFO      OK       Jour 055 JPL : jplg0550.23i.Z
+2026-05-25 09:03:43  INFO      OK       Jour 056 CODE : COD0OPSFIN_20230560000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:46  INFO      OK       Jour 056 JPL : jplg0560.23i.Z
+2026-05-25 09:03:51  INFO      OK       Jour 057 CODE : COD0OPSFIN_20230570000_01D_01H_GIM.INX.gz
+2026-05-25 09:03:56  INFO      OK       Jour 057 JPL : jplg0570.23i.Z
+2026-05-25 09:04:00  INFO      OK       Jour 058 CODE : COD0OPSFIN_20230580000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:03  INFO      OK       Jour 058 JPL : jplg0580.23i.Z
+2026-05-25 09:04:08  INFO      OK       Jour 059 CODE : COD0OPSFIN_20230590000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:11  INFO      OK       Jour 059 JPL : jplg0590.23i.Z
+2026-05-25 09:04:14  INFO      OK       Jour 060 CODE : COD0OPSFIN_20230600000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:19  INFO      OK       Jour 060 JPL : jplg0600.23i.Z
+2026-05-25 09:04:24  INFO      OK       Jour 061 CODE : COD0OPSFIN_20230610000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:27  INFO      OK       Jour 061 JPL : jplg0610.23i.Z
+2026-05-25 09:04:31  INFO      OK       Jour 062 CODE : COD0OPSFIN_20230620000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:36  INFO      OK       Jour 062 JPL : jplg0620.23i.Z
+2026-05-25 09:04:39  INFO      OK       Jour 063 CODE : COD0OPSFIN_20230630000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:42  INFO      OK       Jour 063 JPL : jplg0630.23i.Z
+2026-05-25 09:04:46  INFO      OK       Jour 064 CODE : COD0OPSFIN_20230640000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:49  INFO      OK       Jour 064 JPL : jplg0640.23i.Z
+2026-05-25 09:04:52  INFO      OK       Jour 065 CODE : COD0OPSFIN_20230650000_01D_01H_GIM.INX.gz
+2026-05-25 09:04:55  INFO      OK       Jour 065 JPL : jplg0650.23i.Z
+2026-05-25 09:04:59  INFO      OK       Jour 066 CODE : COD0OPSFIN_20230660000_01D_01H_GIM.INX.gz
+2026-05-25 09:05:02  INFO      OK       Jour 066 JPL : jplg0660.23i.Z
+2026-05-25 09:05:05  INFO      OK       Jour 067 CODE : COD0OPSFIN_20230670000_01D_01H_GIM.INX.gz
+2026-05-25 09:05:08  INFO      OK       Jour 067 JPL : jplg0670.23i.Z
+2026-05-25 09:05:11  INFO      OK       Jour 068 CODE : COD0OPSFIN_20230680000_01D_01H_GIM.INX.gz
+2026-05-25 09:05:16  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 09:05:25  INFO      OK       Jour 068 JPL : jplg0680.23i.Z
+2026-05-25 09:05:28  INFO      OK       Jour 069 CODE : COD0OPSFIN_20230690000_01D_01H_GIM.INX.gz
+2026-05-25 09:05:31  INFO      OK       Jour 069 JPL : jplg0690.23i.Z
+2026-05-25 09:05:35  INFO      OK       Jour 070 CODE : COD0OPSFIN_20230700000_01D_01H_GIM.INX.gz
+2026-05-25 09:05:38  INFO      OK       Jour 070 JPL : jplg0700.23i.Z
+2026-05-25 09:05:41  INFO      OK       Jour 071 CODE : COD0OPSFIN_20230710000_01D_01H_GIM.INX.gz
+2026-05-25 09:05:44  INFO      OK       Jour 071 JPL : jplg0710.23i.Z
+2026-05-25 09:05:49  INFO      OK       Jour 072 CODE : COD0OPSFIN_20230720000_01D_01H_GIM.INX.gz
+2026-05-25 09:05:54  INFO      OK       Jour 072 JPL : jplg0720.23i.Z
+2026-05-25 09:05:59  INFO      OK       Jour 073 CODE : COD0OPSFIN_20230730000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:04  INFO      OK       Jour 073 JPL : jplg0730.23i.Z
+2026-05-25 09:06:07  INFO      OK       Jour 074 CODE : COD0OPSFIN_20230740000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:10  INFO      OK       Jour 074 JPL : jplg0740.23i.Z
+2026-05-25 09:06:13  INFO      OK       Jour 075 CODE : COD0OPSFIN_20230750000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:17  INFO      OK       Jour 075 JPL : jplg0750.23i.Z
+2026-05-25 09:06:20  INFO      OK       Jour 076 CODE : COD0OPSFIN_20230760000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:23  INFO      OK       Jour 076 JPL : jplg0760.23i.Z
+2026-05-25 09:06:27  INFO      OK       Jour 077 CODE : COD0OPSFIN_20230770000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:30  INFO      OK       Jour 077 JPL : jplg0770.23i.Z
+2026-05-25 09:06:33  INFO      OK       Jour 078 CODE : COD0OPSFIN_20230780000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:36  INFO      OK       Jour 078 JPL : jplg0780.23i.Z
+2026-05-25 09:06:40  INFO      OK       Jour 079 CODE : COD0OPSFIN_20230790000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:45  INFO      OK       Jour 079 JPL : jplg0790.23i.Z
+2026-05-25 09:06:48  INFO      OK       Jour 080 CODE : COD0OPSFIN_20230800000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:51  INFO      OK       Jour 080 JPL : jplg0800.23i.Z
+2026-05-25 09:06:55  INFO      OK       Jour 081 CODE : COD0OPSFIN_20230810000_01D_01H_GIM.INX.gz
+2026-05-25 09:06:58  INFO      OK       Jour 081 JPL : jplg0810.23i.Z
+2026-05-25 09:07:01  INFO      OK       Jour 082 CODE : COD0OPSFIN_20230820000_01D_01H_GIM.INX.gz
+2026-05-25 09:07:07  INFO      OK       Jour 082 JPL : jplg0820.23i.Z
+2026-05-25 09:07:10  INFO      OK       Jour 083 CODE : COD0OPSFIN_20230830000_01D_01H_GIM.INX.gz
+2026-05-25 09:07:15  INFO      OK       Jour 083 JPL : jplg0830.23i.Z
+2026-05-25 09:07:19  INFO      OK       Jour 084 CODE : COD0OPSFIN_20230840000_01D_01H_GIM.INX.gz
+2026-05-25 09:07:24  INFO      OK       Jour 084 JPL : jplg0840.23i.Z
+2026-05-25 09:07:29  INFO      OK       Jour 085 CODE : COD0OPSFIN_20230850000_01D_01H_GIM.INX.gz
+2026-05-25 09:07:34  INFO      OK       Jour 085 JPL : jplg0850.23i.Z
+2026-05-25 09:07:38  INFO      OK       Jour 086 CODE : COD0OPSFIN_20230860000_01D_01H_GIM.INX.gz
+2026-05-25 09:07:43  INFO      OK       Jour 086 JPL : jplg0860.23i.Z
+2026-05-25 09:07:46  INFO      OK       Jour 087 CODE : COD0OPSFIN_20230870000_01D_01H_GIM.INX.gz
+2026-05-25 09:07:49  INFO      OK       Jour 087 JPL : jplg0870.23i.Z
+2026-05-25 09:07:53  INFO      OK       Jour 088 CODE : COD0OPSFIN_20230880000_01D_01H_GIM.INX.gz
+2026-05-25 09:07:58  INFO      OK       Jour 088 JPL : jplg0880.23i.Z
+2026-05-25 09:08:03  INFO      OK       Jour 089 CODE : COD0OPSFIN_20230890000_01D_01H_GIM.INX.gz
+2026-05-25 09:08:07  INFO      OK       Jour 089 JPL : jplg0890.23i.Z
+2026-05-25 09:08:10  INFO      OK       Jour 090 CODE : COD0OPSFIN_20230900000_01D_01H_GIM.INX.gz
+2026-05-25 09:08:13  INFO      OK       Jour 090 JPL : jplg0900.23i.Z
+2026-05-25 09:08:18  INFO      OK       Jour 091 CODE : COD0OPSFIN_20230910000_01D_01H_GIM.INX.gz
+2026-05-25 09:08:21  INFO      OK       Jour 091 JPL : jplg0910.23i.Z
+2026-05-25 09:08:25  INFO      OK       Jour 092 CODE : COD0OPSFIN_20230920000_01D_01H_GIM.INX.gz
+2026-05-25 09:08:28  INFO      OK       Jour 092 JPL : jplg0920.23i.Z
+2026-05-25 09:08:31  INFO      OK       Jour 093 CODE : COD0OPSFIN_20230930000_01D_01H_GIM.INX.gz
+2026-05-25 09:08:34  INFO      OK       Jour 093 JPL : jplg0930.23i.Z
+2026-05-25 09:08:37  INFO      OK       Jour 094 CODE : COD0OPSFIN_20230940000_01D_01H_GIM.INX.gz
+2026-05-25 09:08:43  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 09:08:50  INFO      OK       Jour 094 JPL : jplg0940.23i.Z
+2026-05-25 09:08:55  INFO      OK       Jour 095 CODE : COD0OPSFIN_20230950000_01D_01H_GIM.INX.gz
+2026-05-25 09:08:58  INFO      OK       Jour 095 JPL : jplg0950.23i.Z
+2026-05-25 09:09:01  INFO      OK       Jour 096 CODE : COD0OPSFIN_20230960000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:04  INFO      OK       Jour 096 JPL : jplg0960.23i.Z
+2026-05-25 09:09:08  INFO      OK       Jour 097 CODE : COD0OPSFIN_20230970000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:11  INFO      OK       Jour 097 JPL : jplg0970.23i.Z
+2026-05-25 09:09:14  INFO      OK       Jour 098 CODE : COD0OPSFIN_20230980000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:17  INFO      OK       Jour 098 JPL : jplg0980.23i.Z
+2026-05-25 09:09:24  INFO      OK       Jour 099 CODE : COD0OPSFIN_20230990000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:28  INFO      OK       Jour 099 JPL : jplg0990.23i.Z
+2026-05-25 09:09:31  INFO      OK       Jour 100 CODE : COD0OPSFIN_20231000000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:36  INFO      OK       Jour 100 JPL : jplg1000.23i.Z
+2026-05-25 09:09:41  INFO      OK       Jour 101 CODE : COD0OPSFIN_20231010000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:45  INFO      OK       Jour 101 JPL : jplg1010.23i.Z
+2026-05-25 09:09:48  INFO      OK       Jour 102 CODE : COD0OPSFIN_20231020000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:51  INFO      OK       Jour 102 JPL : jplg1020.23i.Z
+2026-05-25 09:09:55  INFO      OK       Jour 103 CODE : COD0OPSFIN_20231030000_01D_01H_GIM.INX.gz
+2026-05-25 09:09:58  INFO      OK       Jour 103 JPL : jplg1030.23i.Z
+2026-05-25 09:10:01  INFO      OK       Jour 104 CODE : COD0OPSFIN_20231040000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:04  INFO      OK       Jour 104 JPL : jplg1040.23i.Z
+2026-05-25 09:10:09  INFO      OK       Jour 105 CODE : COD0OPSFIN_20231050000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:13  INFO      OK       Jour 105 JPL : jplg1050.23i.Z
+2026-05-25 09:10:16  INFO      OK       Jour 106 CODE : COD0OPSFIN_20231060000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:19  INFO      OK       Jour 106 JPL : jplg1060.23i.Z
+2026-05-25 09:10:22  INFO      OK       Jour 107 CODE : COD0OPSFIN_20231070000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:25  INFO      OK       Jour 107 JPL : jplg1070.23i.Z
+2026-05-25 09:10:28  INFO      OK       Jour 108 CODE : COD0OPSFIN_20231080000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:32  INFO      OK       Jour 108 JPL : jplg1080.23i.Z
+2026-05-25 09:10:35  INFO      OK       Jour 109 CODE : COD0OPSFIN_20231090000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:40  INFO      OK       Jour 109 JPL : jplg1090.23i.Z
+2026-05-25 09:10:44  INFO      OK       Jour 110 CODE : COD0OPSFIN_20231100000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:47  INFO      OK       Jour 110 JPL : jplg1100.23i.Z
+2026-05-25 09:10:52  INFO      OK       Jour 111 CODE : COD0OPSFIN_20231110000_01D_01H_GIM.INX.gz
+2026-05-25 09:10:55  INFO      OK       Jour 111 JPL : jplg1110.23i.Z
+2026-05-25 09:10:58  INFO      OK       Jour 112 CODE : COD0OPSFIN_20231120000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:02  INFO      OK       Jour 112 JPL : jplg1120.23i.Z
+2026-05-25 09:11:07  INFO      OK       Jour 113 CODE : COD0OPSFIN_20231130000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:12  INFO      OK       Jour 113 JPL : jplg1130.23i.Z
+2026-05-25 09:11:15  INFO      OK       Jour 114 CODE : COD0OPSFIN_20231140000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:18  INFO      OK       Jour 114 JPL : jplg1140.23i.Z
+2026-05-25 09:11:21  INFO      OK       Jour 115 CODE : COD0OPSFIN_20231150000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:24  INFO      OK       Jour 115 JPL : jplg1150.23i.Z
+2026-05-25 09:11:27  INFO      OK       Jour 116 CODE : COD0OPSFIN_20231160000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:30  INFO      OK       Jour 116 JPL : jplg1160.23i.Z
+2026-05-25 09:11:34  INFO      OK       Jour 117 CODE : COD0OPSFIN_20231170000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:37  INFO      OK       Jour 117 JPL : jplg1170.23i.Z
+2026-05-25 09:11:40  INFO      OK       Jour 118 CODE : COD0OPSFIN_20231180000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:43  INFO      OK       Jour 118 JPL : jplg1180.23i.Z
+2026-05-25 09:11:46  INFO      OK       Jour 119 CODE : COD0OPSFIN_20231190000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:50  INFO      OK       Jour 119 JPL : jplg1190.23i.Z
+2026-05-25 09:11:53  INFO      OK       Jour 120 CODE : COD0OPSFIN_20231200000_01D_01H_GIM.INX.gz
+2026-05-25 09:11:57  INFO      OK       Jour 120 JPL : jplg1200.23i.Z
+2026-05-25 09:12:00  INFO      OK       Jour 121 CODE : COD0OPSFIN_20231210000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:04  INFO      OK       Jour 121 JPL : jplg1210.23i.Z
+2026-05-25 09:12:07  INFO      OK       Jour 122 CODE : COD0OPSFIN_20231220000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:11  INFO      OK       Jour 122 JPL : jplg1220.23i.Z
+2026-05-25 09:12:16  INFO      OK       Jour 123 CODE : COD0OPSFIN_20231230000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:19  INFO      OK       Jour 123 JPL : jplg1230.23i.Z
+2026-05-25 09:12:22  INFO      OK       Jour 124 CODE : COD0OPSFIN_20231240000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:25  INFO      OK       Jour 124 JPL : jplg1240.23i.Z
+2026-05-25 09:12:29  INFO      OK       Jour 125 CODE : COD0OPSFIN_20231250000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:32  INFO      OK       Jour 125 JPL : jplg1250.23i.Z
+2026-05-25 09:12:37  INFO      OK       Jour 126 CODE : COD0OPSFIN_20231260000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:42  INFO      OK       Jour 126 JPL : jplg1260.23i.Z
+2026-05-25 09:12:45  INFO      OK       Jour 127 CODE : COD0OPSFIN_20231270000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:48  INFO      OK       Jour 127 JPL : jplg1270.23i.Z
+2026-05-25 09:12:52  INFO      OK       Jour 128 CODE : COD0OPSFIN_20231280000_01D_01H_GIM.INX.gz
+2026-05-25 09:12:55  INFO      OK       Jour 128 JPL : jplg1280.23i.Z
+2026-05-25 09:13:00  INFO      OK       Jour 129 CODE : COD0OPSFIN_20231290000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:03  INFO      OK       Jour 129 JPL : jplg1290.23i.Z
+2026-05-25 09:13:06  INFO      OK       Jour 130 CODE : COD0OPSFIN_20231300000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:10  INFO      OK       Jour 130 JPL : jplg1300.23i.Z
+2026-05-25 09:13:15  INFO      OK       Jour 131 CODE : COD0OPSFIN_20231310000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:18  INFO      OK       Jour 131 JPL : jplg1310.23i.Z
+2026-05-25 09:13:21  INFO      OK       Jour 132 CODE : COD0OPSFIN_20231320000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:25  INFO      OK       Jour 132 JPL : jplg1320.23i.Z
+2026-05-25 09:13:28  INFO      OK       Jour 133 CODE : COD0OPSFIN_20231330000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:31  INFO      OK       Jour 133 JPL : jplg1330.23i.Z
+2026-05-25 09:13:35  INFO      OK       Jour 134 CODE : COD0OPSFIN_20231340000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:40  INFO      OK       Jour 134 JPL : jplg1340.23i.Z
+2026-05-25 09:13:46  INFO      OK       Jour 135 CODE : COD0OPSFIN_20231350000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:49  INFO      OK       Jour 135 JPL : jplg1350.23i.Z
+2026-05-25 09:13:52  INFO      OK       Jour 136 CODE : COD0OPSFIN_20231360000_01D_01H_GIM.INX.gz
+2026-05-25 09:13:55  INFO      OK       Jour 136 JPL : jplg1360.23i.Z
+2026-05-25 09:13:58  INFO      OK       Jour 137 CODE : COD0OPSFIN_20231370000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:01  INFO      OK       Jour 137 JPL : jplg1370.23i.Z
+2026-05-25 09:14:04  INFO      OK       Jour 138 CODE : COD0OPSFIN_20231380000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:07  INFO      OK       Jour 138 JPL : jplg1380.23i.Z
+2026-05-25 09:14:10  INFO      OK       Jour 139 CODE : COD0OPSFIN_20231390000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:13  INFO      OK       Jour 139 JPL : jplg1390.23i.Z
+2026-05-25 09:14:16  INFO      OK       Jour 140 CODE : COD0OPSFIN_20231400000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:19  INFO      OK       Jour 140 JPL : jplg1400.23i.Z
+2026-05-25 09:14:22  INFO      OK       Jour 141 CODE : COD0OPSFIN_20231410000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:25  INFO      OK       Jour 141 JPL : jplg1410.23i.Z
+2026-05-25 09:14:29  INFO      OK       Jour 142 CODE : COD0OPSFIN_20231420000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:32  INFO      OK       Jour 142 JPL : jplg1420.23i.Z
+2026-05-25 09:14:35  INFO      OK       Jour 143 CODE : COD0OPSFIN_20231430000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:38  INFO      OK       Jour 143 JPL : jplg1430.23i.Z
+2026-05-25 09:14:41  INFO      OK       Jour 144 CODE : COD0OPSFIN_20231440000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:44  INFO      OK       Jour 144 JPL : jplg1440.23i.Z
+2026-05-25 09:14:47  INFO      OK       Jour 145 CODE : COD0OPSFIN_20231450000_01D_01H_GIM.INX.gz
+2026-05-25 09:14:50  INFO      OK       Jour 145 JPL : jplg1450.23i.Z
+2026-05-25 09:14:55  INFO      OK       Jour 146 CODE : COD0OPSFIN_20231460000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:00  INFO      OK       Jour 146 JPL : jplg1460.23i.Z
+2026-05-25 09:15:03  INFO      OK       Jour 147 CODE : COD0OPSFIN_20231470000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:06  INFO      OK       Jour 147 JPL : jplg1470.23i.Z
+2026-05-25 09:15:09  INFO      OK       Jour 148 CODE : COD0OPSFIN_20231480000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:12  INFO      OK       Jour 148 JPL : jplg1480.23i.Z
+2026-05-25 09:15:16  INFO      OK       Jour 149 CODE : COD0OPSFIN_20231490000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:19  INFO      OK       Jour 149 JPL : jplg1490.23i.Z
+2026-05-25 09:15:22  INFO      OK       Jour 150 CODE : COD0OPSFIN_20231500000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:25  INFO      OK       Jour 150 JPL : jplg1500.23i.Z
+2026-05-25 09:15:28  INFO      OK       Jour 151 CODE : COD0OPSFIN_20231510000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:31  INFO      OK       Jour 151 JPL : jplg1510.23i.Z
+2026-05-25 09:15:35  INFO      OK       Jour 152 CODE : COD0OPSFIN_20231520000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:38  INFO      OK       Jour 152 JPL : jplg1520.23i.Z
+2026-05-25 09:15:43  INFO      OK       Jour 153 CODE : COD0OPSFIN_20231530000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:47  INFO      OK       Jour 153 JPL : jplg1530.23i.Z
+2026-05-25 09:15:50  INFO      OK       Jour 154 CODE : COD0OPSFIN_20231540000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:53  INFO      OK       Jour 154 JPL : jplg1540.23i.Z
+2026-05-25 09:15:56  INFO      OK       Jour 155 CODE : COD0OPSFIN_20231550000_01D_01H_GIM.INX.gz
+2026-05-25 09:15:59  INFO      OK       Jour 155 JPL : jplg1550.23i.Z
+2026-05-25 09:16:04  INFO      OK       Jour 156 CODE : COD0OPSFIN_20231560000_01D_01H_GIM.INX.gz
+2026-05-25 09:16:09  INFO      OK       Jour 156 JPL : jplg1560.23i.Z
+2026-05-25 09:16:12  INFO      OK       Jour 157 CODE : COD0OPSFIN_20231570000_01D_01H_GIM.INX.gz
+2026-05-25 09:16:15  INFO      OK       Jour 157 JPL : jplg1570.23i.Z
+2026-05-25 09:16:20  INFO      OK       Jour 158 CODE : COD0OPSFIN_20231580000_01D_01H_GIM.INX.gz
+2026-05-25 09:16:26  INFO      OK       Jour 158 JPL : jplg1580.23i.Z
+2026-05-25 09:16:32  INFO      OK       Jour 159 CODE : COD0OPSFIN_20231590000_01D_01H_GIM.INX.gz
+2026-05-25 09:16:35  INFO      OK       Jour 159 JPL : jplg1590.23i.Z
+2026-05-25 09:16:38  INFO      OK       Jour 160 CODE : COD0OPSFIN_20231600000_01D_01H_GIM.INX.gz
+2026-05-25 09:16:41  INFO      OK       Jour 160 JPL : jplg1600.23i.Z
+2026-05-25 09:16:46  INFO      OK       Jour 161 CODE : COD0OPSFIN_20231610000_01D_01H_GIM.INX.gz
+2026-05-25 09:16:51  INFO      OK       Jour 161 JPL : jplg1610.23i.Z
+2026-05-25 09:16:54  INFO      OK       Jour 162 CODE : COD0OPSFIN_20231620000_01D_01H_GIM.INX.gz
+2026-05-25 09:16:57  INFO      OK       Jour 162 JPL : jplg1620.23i.Z
+2026-05-25 09:17:02  INFO      OK       Jour 163 CODE : COD0OPSFIN_20231630000_01D_01H_GIM.INX.gz
+2026-05-25 09:17:07  INFO      OK       Jour 163 JPL : jplg1630.23i.Z
+2026-05-25 09:17:13  INFO      OK       Jour 164 CODE : COD0OPSFIN_20231640000_01D_01H_GIM.INX.gz
+2026-05-25 09:17:17  INFO      OK       Jour 164 JPL : jplg1640.23i.Z
+2026-05-25 09:17:20  INFO      OK       Jour 165 CODE : COD0OPSFIN_20231650000_01D_01H_GIM.INX.gz
+2026-05-25 09:17:23  INFO      OK       Jour 165 JPL : jplg1650.23i.Z
+2026-05-25 09:17:26  INFO      OK       Jour 166 CODE : COD0OPSFIN_20231660000_01D_01H_GIM.INX.gz
+2026-05-25 09:17:29  INFO      OK       Jour 166 JPL : jplg1660.23i.Z
+2026-05-25 09:17:35  INFO      OK       Jour 167 CODE : COD0OPSFIN_20231670000_01D_01H_GIM.INX.gz
+2026-05-25 09:17:40  INFO      OK       Jour 167 JPL : jplg1670.23i.Z
+2026-05-25 09:17:45  INFO      OK       Jour 168 CODE : COD0OPSFIN_20231680000_01D_01H_GIM.INX.gz
+2026-05-25 09:17:48  INFO      OK       Jour 168 JPL : jplg1680.23i.Z
+2026-05-25 09:17:51  INFO      OK       Jour 169 CODE : COD0OPSFIN_20231690000_01D_01H_GIM.INX.gz
+2026-05-25 09:17:55  INFO      OK       Jour 169 JPL : jplg1690.23i.Z
+2026-05-25 09:17:58  INFO      OK       Jour 170 CODE : COD0OPSFIN_20231700000_01D_01H_GIM.INX.gz
+2026-05-25 09:18:02  INFO      OK       Jour 170 JPL : jplg1700.23i.Z
+2026-05-25 09:18:05  INFO      OK       Jour 171 CODE : COD0OPSFIN_20231710000_01D_01H_GIM.INX.gz
+2026-05-25 09:18:09  INFO      OK       Jour 171 JPL : jplg1710.23i.Z
+2026-05-25 09:18:13  INFO      OK       Jour 172 CODE : COD0OPSFIN_20231720000_01D_01H_GIM.INX.gz
+2026-05-25 09:18:26  INFO      OK       Jour 172 JPL : jplg1720.23i.Z
+2026-05-25 09:18:30  INFO      OK       Jour 173 CODE : COD0OPSFIN_20231730000_01D_01H_GIM.INX.gz
+2026-05-25 09:18:32  INFO      OK       Jour 173 JPL : jplg1730.23i.Z
+2026-05-25 09:18:36  INFO      OK       Jour 174 CODE : COD0OPSFIN_20231740000_01D_01H_GIM.INX.gz
+2026-05-25 09:18:39  INFO      OK       Jour 174 JPL : jplg1740.23i.Z
+2026-05-25 09:18:43  INFO      OK       Jour 175 CODE : COD0OPSFIN_20231750000_01D_01H_GIM.INX.gz
+2026-05-25 09:19:45  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 09:19:52  INFO      OK       Jour 175 JPL : jplg1750.23i.Z
+2026-05-25 09:19:55  INFO      OK       Jour 176 CODE : COD0OPSFIN_20231760000_01D_01H_GIM.INX.gz
+2026-05-25 09:19:58  INFO      OK       Jour 176 JPL : jplg1760.23i.Z
+2026-05-25 09:20:01  INFO      OK       Jour 177 CODE : COD0OPSFIN_20231770000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:05  INFO      OK       Jour 177 JPL : jplg1770.23i.Z
+2026-05-25 09:20:08  INFO      OK       Jour 178 CODE : COD0OPSFIN_20231780000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:11  INFO      OK       Jour 178 JPL : jplg1780.23i.Z
+2026-05-25 09:20:14  INFO      OK       Jour 179 CODE : COD0OPSFIN_20231790000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:19  INFO      OK       Jour 179 JPL : jplg1790.23i.Z
+2026-05-25 09:20:22  INFO      OK       Jour 180 CODE : COD0OPSFIN_20231800000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:25  INFO      OK       Jour 180 JPL : jplg1800.23i.Z
+2026-05-25 09:20:28  INFO      OK       Jour 181 CODE : COD0OPSFIN_20231810000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:31  INFO      OK       Jour 181 JPL : jplg1810.23i.Z
+2026-05-25 09:20:35  INFO      OK       Jour 182 CODE : COD0OPSFIN_20231820000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:38  INFO      OK       Jour 182 JPL : jplg1820.23i.Z
+2026-05-25 09:20:42  INFO      OK       Jour 183 CODE : COD0OPSFIN_20231830000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:45  INFO      OK       Jour 183 JPL : jplg1830.23i.Z
+2026-05-25 09:20:49  INFO      OK       Jour 184 CODE : COD0OPSFIN_20231840000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:52  INFO      OK       Jour 184 JPL : jplg1840.23i.Z
+2026-05-25 09:20:55  INFO      OK       Jour 185 CODE : COD0OPSFIN_20231850000_01D_01H_GIM.INX.gz
+2026-05-25 09:20:58  INFO      OK       Jour 185 JPL : jplg1850.23i.Z
+2026-05-25 09:21:01  INFO      OK       Jour 186 CODE : COD0OPSFIN_20231860000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:04  INFO      OK       Jour 186 JPL : jplg1860.23i.Z
+2026-05-25 09:21:07  INFO      OK       Jour 187 CODE : COD0OPSFIN_20231870000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:10  INFO      OK       Jour 187 JPL : jplg1870.23i.Z
+2026-05-25 09:21:15  INFO      OK       Jour 188 CODE : COD0OPSFIN_20231880000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:18  INFO      OK       Jour 188 JPL : jplg1880.23i.Z
+2026-05-25 09:21:22  INFO      OK       Jour 189 CODE : COD0OPSFIN_20231890000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:24  INFO      OK       Jour 189 JPL : jplg1890.23i.Z
+2026-05-25 09:21:30  INFO      OK       Jour 190 CODE : COD0OPSFIN_20231900000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:33  INFO      OK       Jour 190 JPL : jplg1900.23i.Z
+2026-05-25 09:21:36  INFO      OK       Jour 191 CODE : COD0OPSFIN_20231910000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:39  INFO      OK       Jour 191 JPL : jplg1910.23i.Z
+2026-05-25 09:21:44  INFO      OK       Jour 192 CODE : COD0OPSFIN_20231920000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:47  INFO      OK       Jour 192 JPL : jplg1920.23i.Z
+2026-05-25 09:21:50  INFO      OK       Jour 193 CODE : COD0OPSFIN_20231930000_01D_01H_GIM.INX.gz
+2026-05-25 09:21:53  INFO      OK       Jour 193 JPL : jplg1930.23i.Z
+2026-05-25 09:21:57  INFO      OK       Jour 194 CODE : COD0OPSFIN_20231940000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:00  INFO      OK       Jour 194 JPL : jplg1940.23i.Z
+2026-05-25 09:22:03  INFO      OK       Jour 195 CODE : COD0OPSFIN_20231950000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:06  INFO      OK       Jour 195 JPL : jplg1950.23i.Z
+2026-05-25 09:22:09  INFO      OK       Jour 196 CODE : COD0OPSFIN_20231960000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:12  INFO      OK       Jour 196 JPL : jplg1960.23i.Z
+2026-05-25 09:22:15  INFO      OK       Jour 197 CODE : COD0OPSFIN_20231970000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:18  INFO      OK       Jour 197 JPL : jplg1970.23i.Z
+2026-05-25 09:22:21  INFO      OK       Jour 198 CODE : COD0OPSFIN_20231980000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:26  INFO      OK       Jour 198 JPL : jplg1980.23i.Z
+2026-05-25 09:22:30  INFO      OK       Jour 199 CODE : COD0OPSFIN_20231990000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:33  INFO      OK       Jour 199 JPL : jplg1990.23i.Z
+2026-05-25 09:22:36  INFO      OK       Jour 200 CODE : COD0OPSFIN_20232000000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:39  INFO      OK       Jour 200 JPL : jplg2000.23i.Z
+2026-05-25 09:22:42  INFO      OK       Jour 201 CODE : COD0OPSFIN_20232010000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:45  INFO      OK       Jour 201 JPL : jplg2010.23i.Z
+2026-05-25 09:22:49  INFO      OK       Jour 202 CODE : COD0OPSFIN_20232020000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:52  INFO      OK       Jour 202 JPL : jplg2020.23i.Z
+2026-05-25 09:22:56  INFO      OK       Jour 203 CODE : COD0OPSFIN_20232030000_01D_01H_GIM.INX.gz
+2026-05-25 09:22:59  INFO      OK       Jour 203 JPL : jplg2030.23i.Z
+2026-05-25 09:23:02  INFO      OK       Jour 204 CODE : COD0OPSFIN_20232040000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:05  INFO      OK       Jour 204 JPL : jplg2040.23i.Z
+2026-05-25 09:23:10  INFO      OK       Jour 205 CODE : COD0OPSFIN_20232050000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:13  INFO      OK       Jour 205 JPL : jplg2050.23i.Z
+2026-05-25 09:23:16  INFO      OK       Jour 206 CODE : COD0OPSFIN_20232060000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:19  INFO      OK       Jour 206 JPL : jplg2060.23i.Z
+2026-05-25 09:23:22  INFO      OK       Jour 207 CODE : COD0OPSFIN_20232070000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:26  INFO      OK       Jour 207 JPL : jplg2070.23i.Z
+2026-05-25 09:23:29  INFO      OK       Jour 208 CODE : COD0OPSFIN_20232080000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:33  INFO      OK       Jour 208 JPL : jplg2080.23i.Z
+2026-05-25 09:23:36  INFO      OK       Jour 209 CODE : COD0OPSFIN_20232090000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:39  INFO      OK       Jour 209 JPL : jplg2090.23i.Z
+2026-05-25 09:23:42  INFO      OK       Jour 210 CODE : COD0OPSFIN_20232100000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:45  INFO      OK       Jour 210 JPL : jplg2100.23i.Z
+2026-05-25 09:23:49  INFO      OK       Jour 211 CODE : COD0OPSFIN_20232110000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:54  INFO      OK       Jour 211 JPL : jplg2110.23i.Z
+2026-05-25 09:23:57  INFO      OK       Jour 212 CODE : COD0OPSFIN_20232120000_01D_01H_GIM.INX.gz
+2026-05-25 09:23:59  WARNING   ABSENT   Jour 212 JPL : jplg2120.23i.Z
+2026-05-25 09:24:02  INFO      OK       Jour 213 CODE : COD0OPSFIN_20232130000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:07  INFO      OK       Jour 213 JPL : jplg2130.23i.Z
+2026-05-25 09:24:11  INFO      OK       Jour 214 CODE : COD0OPSFIN_20232140000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:14  INFO      OK       Jour 214 JPL : jplg2140.23i.Z
+2026-05-25 09:24:17  INFO      OK       Jour 215 CODE : COD0OPSFIN_20232150000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:20  INFO      OK       Jour 215 JPL : jplg2150.23i.Z
+2026-05-25 09:24:23  INFO      OK       Jour 216 CODE : COD0OPSFIN_20232160000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:28  INFO      OK       Jour 216 JPL : jplg2160.23i.Z
+2026-05-25 09:24:31  INFO      OK       Jour 217 CODE : COD0OPSFIN_20232170000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:34  INFO      OK       Jour 217 JPL : jplg2170.23i.Z
+2026-05-25 09:24:38  INFO      OK       Jour 218 CODE : COD0OPSFIN_20232180000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:41  INFO      OK       Jour 218 JPL : jplg2180.23i.Z
+2026-05-25 09:24:44  INFO      OK       Jour 219 CODE : COD0OPSFIN_20232190000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:49  INFO      OK       Jour 219 JPL : jplg2190.23i.Z
+2026-05-25 09:24:52  INFO      OK       Jour 220 CODE : COD0OPSFIN_20232200000_01D_01H_GIM.INX.gz
+2026-05-25 09:24:55  WARNING   ABSENT   Jour 220 JPL : jplg2200.23i.Z
+2026-05-25 09:24:58  INFO      OK       Jour 221 CODE : COD0OPSFIN_20232210000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:00  WARNING   ABSENT   Jour 221 JPL : jplg2210.23i.Z
+2026-05-25 09:25:03  INFO      OK       Jour 222 CODE : COD0OPSFIN_20232220000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:05  WARNING   ABSENT   Jour 222 JPL : jplg2220.23i.Z
+2026-05-25 09:25:08  INFO      OK       Jour 223 CODE : COD0OPSFIN_20232230000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:11  WARNING   ABSENT   Jour 223 JPL : jplg2230.23i.Z
+2026-05-25 09:25:13  INFO      OK       Jour 224 CODE : COD0OPSFIN_20232240000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:16  WARNING   ABSENT   Jour 224 JPL : jplg2240.23i.Z
+2026-05-25 09:25:19  INFO      OK       Jour 225 CODE : COD0OPSFIN_20232250000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:21  WARNING   ABSENT   Jour 225 JPL : jplg2250.23i.Z
+2026-05-25 09:25:24  INFO      OK       Jour 226 CODE : COD0OPSFIN_20232260000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:27  WARNING   ABSENT   Jour 226 JPL : jplg2260.23i.Z
+2026-05-25 09:25:30  INFO      OK       Jour 227 CODE : COD0OPSFIN_20232270000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:32  WARNING   ABSENT   Jour 227 JPL : jplg2270.23i.Z
+2026-05-25 09:25:36  INFO      OK       Jour 228 CODE : COD0OPSFIN_20232280000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:38  WARNING   ABSENT   Jour 228 JPL : jplg2280.23i.Z
+2026-05-25 09:25:41  INFO      OK       Jour 229 CODE : COD0OPSFIN_20232290000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:44  WARNING   ABSENT   Jour 229 JPL : jplg2290.23i.Z
+2026-05-25 09:25:47  INFO      OK       Jour 230 CODE : COD0OPSFIN_20232300000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:49  WARNING   ABSENT   Jour 230 JPL : jplg2300.23i.Z
+2026-05-25 09:25:52  INFO      OK       Jour 231 CODE : COD0OPSFIN_20232310000_01D_01H_GIM.INX.gz
+2026-05-25 09:25:55  WARNING   ABSENT   Jour 231 JPL : jplg2310.23i.Z
+2026-05-25 09:26:00  INFO      OK       Jour 232 CODE : COD0OPSFIN_20232320000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:03  WARNING   ABSENT   Jour 232 JPL : jplg2320.23i.Z
+2026-05-25 09:26:06  INFO      OK       Jour 233 CODE : COD0OPSFIN_20232330000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:09  WARNING   ABSENT   Jour 233 JPL : jplg2330.23i.Z
+2026-05-25 09:26:13  INFO      OK       Jour 234 CODE : COD0OPSFIN_20232340000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:16  WARNING   ABSENT   Jour 234 JPL : jplg2340.23i.Z
+2026-05-25 09:26:20  INFO      OK       Jour 235 CODE : COD0OPSFIN_20232350000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:22  WARNING   ABSENT   Jour 235 JPL : jplg2350.23i.Z
+2026-05-25 09:26:25  INFO      OK       Jour 236 CODE : COD0OPSFIN_20232360000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:28  WARNING   ABSENT   Jour 236 JPL : jplg2360.23i.Z
+2026-05-25 09:26:31  INFO      OK       Jour 237 CODE : COD0OPSFIN_20232370000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:34  WARNING   ABSENT   Jour 237 JPL : jplg2370.23i.Z
+2026-05-25 09:26:37  INFO      OK       Jour 238 CODE : COD0OPSFIN_20232380000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:40  WARNING   ABSENT   Jour 238 JPL : jplg2380.23i.Z
+2026-05-25 09:26:43  INFO      OK       Jour 239 CODE : COD0OPSFIN_20232390000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:45  WARNING   ABSENT   Jour 239 JPL : jplg2390.23i.Z
+2026-05-25 09:26:50  INFO      OK       Jour 240 CODE : COD0OPSFIN_20232400000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:53  WARNING   ABSENT   Jour 240 JPL : jplg2400.23i.Z
+2026-05-25 09:26:56  INFO      OK       Jour 241 CODE : COD0OPSFIN_20232410000_01D_01H_GIM.INX.gz
+2026-05-25 09:26:59  WARNING   ABSENT   Jour 241 JPL : jplg2410.23i.Z
+2026-05-25 09:27:02  INFO      OK       Jour 242 CODE : COD0OPSFIN_20232420000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:05  WARNING   ABSENT   Jour 242 JPL : jplg2420.23i.Z
+2026-05-25 09:27:08  INFO      OK       Jour 243 CODE : COD0OPSFIN_20232430000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:11  WARNING   ABSENT   Jour 243 JPL : jplg2430.23i.Z
+2026-05-25 09:27:14  INFO      OK       Jour 244 CODE : COD0OPSFIN_20232440000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:16  WARNING   ABSENT   Jour 244 JPL : jplg2440.23i.Z
+2026-05-25 09:27:20  INFO      OK       Jour 245 CODE : COD0OPSFIN_20232450000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:22  WARNING   ABSENT   Jour 245 JPL : jplg2450.23i.Z
+2026-05-25 09:27:25  INFO      OK       Jour 246 CODE : COD0OPSFIN_20232460000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:27  WARNING   ABSENT   Jour 246 JPL : jplg2460.23i.Z
+2026-05-25 09:27:31  INFO      OK       Jour 247 CODE : COD0OPSFIN_20232470000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:33  WARNING   ABSENT   Jour 247 JPL : jplg2470.23i.Z
+2026-05-25 09:27:36  INFO      OK       Jour 248 CODE : COD0OPSFIN_20232480000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:39  WARNING   ABSENT   Jour 248 JPL : jplg2480.23i.Z
+2026-05-25 09:27:42  INFO      OK       Jour 249 CODE : COD0OPSFIN_20232490000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:44  WARNING   ABSENT   Jour 249 JPL : jplg2490.23i.Z
+2026-05-25 09:27:47  INFO      OK       Jour 250 CODE : COD0OPSFIN_20232500000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:51  WARNING   ABSENT   Jour 250 JPL : jplg2500.23i.Z
+2026-05-25 09:27:54  INFO      OK       Jour 251 CODE : COD0OPSFIN_20232510000_01D_01H_GIM.INX.gz
+2026-05-25 09:27:58  WARNING   ABSENT   Jour 251 JPL : jplg2510.23i.Z
+2026-05-25 09:28:01  INFO      OK       Jour 252 CODE : COD0OPSFIN_20232520000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:04  WARNING   ABSENT   Jour 252 JPL : jplg2520.23i.Z
+2026-05-25 09:28:07  INFO      OK       Jour 253 CODE : COD0OPSFIN_20232530000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:09  WARNING   ABSENT   Jour 253 JPL : jplg2530.23i.Z
+2026-05-25 09:28:13  INFO      OK       Jour 254 CODE : COD0OPSFIN_20232540000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:15  WARNING   ABSENT   Jour 254 JPL : jplg2540.23i.Z
+2026-05-25 09:28:18  INFO      OK       Jour 255 CODE : COD0OPSFIN_20232550000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:20  WARNING   ABSENT   Jour 255 JPL : jplg2550.23i.Z
+2026-05-25 09:28:24  INFO      OK       Jour 256 CODE : COD0OPSFIN_20232560000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:26  WARNING   ABSENT   Jour 256 JPL : jplg2560.23i.Z
+2026-05-25 09:28:29  INFO      OK       Jour 257 CODE : COD0OPSFIN_20232570000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:31  WARNING   ABSENT   Jour 257 JPL : jplg2570.23i.Z
+2026-05-25 09:28:34  INFO      OK       Jour 258 CODE : COD0OPSFIN_20232580000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:37  WARNING   ABSENT   Jour 258 JPL : jplg2580.23i.Z
+2026-05-25 09:28:40  INFO      OK       Jour 259 CODE : COD0OPSFIN_20232590000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:42  WARNING   ABSENT   Jour 259 JPL : jplg2590.23i.Z
+2026-05-25 09:28:45  INFO      OK       Jour 260 CODE : COD0OPSFIN_20232600000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:47  WARNING   ABSENT   Jour 260 JPL : jplg2600.23i.Z
+2026-05-25 09:28:51  INFO      OK       Jour 261 CODE : COD0OPSFIN_20232610000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:53  WARNING   ABSENT   Jour 261 JPL : jplg2610.23i.Z
+2026-05-25 09:28:56  INFO      OK       Jour 262 CODE : COD0OPSFIN_20232620000_01D_01H_GIM.INX.gz
+2026-05-25 09:28:58  WARNING   ABSENT   Jour 262 JPL : jplg2620.23i.Z
+2026-05-25 09:29:01  INFO      OK       Jour 263 CODE : COD0OPSFIN_20232630000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:04  WARNING   ABSENT   Jour 263 JPL : jplg2630.23i.Z
+2026-05-25 09:29:07  INFO      OK       Jour 264 CODE : COD0OPSFIN_20232640000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:09  WARNING   ABSENT   Jour 264 JPL : jplg2640.23i.Z
+2026-05-25 09:29:12  INFO      OK       Jour 265 CODE : COD0OPSFIN_20232650000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:14  WARNING   ABSENT   Jour 265 JPL : jplg2650.23i.Z
+2026-05-25 09:29:17  INFO      OK       Jour 266 CODE : COD0OPSFIN_20232660000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:19  WARNING   ABSENT   Jour 266 JPL : jplg2660.23i.Z
+2026-05-25 09:29:22  INFO      OK       Jour 267 CODE : COD0OPSFIN_20232670000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:24  WARNING   ABSENT   Jour 267 JPL : jplg2670.23i.Z
+2026-05-25 09:29:27  INFO      OK       Jour 268 CODE : COD0OPSFIN_20232680000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:31  WARNING   ABSENT   Jour 268 JPL : jplg2680.23i.Z
+2026-05-25 09:29:34  INFO      OK       Jour 269 CODE : COD0OPSFIN_20232690000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:37  WARNING   ABSENT   Jour 269 JPL : jplg2690.23i.Z
+2026-05-25 09:29:41  INFO      OK       Jour 270 CODE : COD0OPSFIN_20232700000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:43  WARNING   ABSENT   Jour 270 JPL : jplg2700.23i.Z
+2026-05-25 09:29:46  INFO      OK       Jour 271 CODE : COD0OPSFIN_20232710000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:48  WARNING   ABSENT   Jour 271 JPL : jplg2710.23i.Z
+2026-05-25 09:29:51  INFO      OK       Jour 272 CODE : COD0OPSFIN_20232720000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:53  WARNING   ABSENT   Jour 272 JPL : jplg2720.23i.Z
+2026-05-25 09:29:57  INFO      OK       Jour 273 CODE : COD0OPSFIN_20232730000_01D_01H_GIM.INX.gz
+2026-05-25 09:29:59  WARNING   ABSENT   Jour 273 JPL : jplg2730.23i.Z
+2026-05-25 09:30:02  INFO      OK       Jour 274 CODE : COD0OPSFIN_20232740000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:05  WARNING   ABSENT   Jour 274 JPL : jplg2740.23i.Z
+2026-05-25 09:30:08  INFO      OK       Jour 275 CODE : COD0OPSFIN_20232750000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:10  WARNING   ABSENT   Jour 275 JPL : jplg2750.23i.Z
+2026-05-25 09:30:15  INFO      OK       Jour 276 CODE : COD0OPSFIN_20232760000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:18  WARNING   ABSENT   Jour 276 JPL : jplg2760.23i.Z
+2026-05-25 09:30:21  INFO      OK       Jour 277 CODE : COD0OPSFIN_20232770000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:25  WARNING   ABSENT   Jour 277 JPL : jplg2770.23i.Z
+2026-05-25 09:30:28  INFO      OK       Jour 278 CODE : COD0OPSFIN_20232780000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:30  WARNING   ABSENT   Jour 278 JPL : jplg2780.23i.Z
+2026-05-25 09:30:33  INFO      OK       Jour 279 CODE : COD0OPSFIN_20232790000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:36  WARNING   ABSENT   Jour 279 JPL : jplg2790.23i.Z
+2026-05-25 09:30:39  INFO      OK       Jour 280 CODE : COD0OPSFIN_20232800000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:41  WARNING   ABSENT   Jour 280 JPL : jplg2800.23i.Z
+2026-05-25 09:30:44  INFO      OK       Jour 281 CODE : COD0OPSFIN_20232810000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:46  WARNING   ABSENT   Jour 281 JPL : jplg2810.23i.Z
+2026-05-25 09:30:49  INFO      OK       Jour 282 CODE : COD0OPSFIN_20232820000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:51  WARNING   ABSENT   Jour 282 JPL : jplg2820.23i.Z
+2026-05-25 09:30:55  INFO      OK       Jour 283 CODE : COD0OPSFIN_20232830000_01D_01H_GIM.INX.gz
+2026-05-25 09:30:57  WARNING   ABSENT   Jour 283 JPL : jplg2830.23i.Z
+2026-05-25 09:31:00  INFO      OK       Jour 284 CODE : COD0OPSFIN_20232840000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:02  WARNING   ABSENT   Jour 284 JPL : jplg2840.23i.Z
+2026-05-25 09:31:05  INFO      OK       Jour 285 CODE : COD0OPSFIN_20232850000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:07  WARNING   ABSENT   Jour 285 JPL : jplg2850.23i.Z
+2026-05-25 09:31:11  INFO      OK       Jour 286 CODE : COD0OPSFIN_20232860000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:13  WARNING   ABSENT   Jour 286 JPL : jplg2860.23i.Z
+2026-05-25 09:31:16  INFO      OK       Jour 287 CODE : COD0OPSFIN_20232870000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:18  WARNING   ABSENT   Jour 287 JPL : jplg2870.23i.Z
+2026-05-25 09:31:22  INFO      OK       Jour 288 CODE : COD0OPSFIN_20232880000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:24  WARNING   ABSENT   Jour 288 JPL : jplg2880.23i.Z
+2026-05-25 09:31:27  INFO      OK       Jour 289 CODE : COD0OPSFIN_20232890000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:29  WARNING   ABSENT   Jour 289 JPL : jplg2890.23i.Z
+2026-05-25 09:31:33  INFO      OK       Jour 290 CODE : COD0OPSFIN_20232900000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:36  WARNING   ABSENT   Jour 290 JPL : jplg2900.23i.Z
+2026-05-25 09:31:39  INFO      OK       Jour 291 CODE : COD0OPSFIN_20232910000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:41  WARNING   ABSENT   Jour 291 JPL : jplg2910.23i.Z
+2026-05-25 09:31:44  INFO      OK       Jour 292 CODE : COD0OPSFIN_20232920000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:46  WARNING   ABSENT   Jour 292 JPL : jplg2920.23i.Z
+2026-05-25 09:31:49  INFO      OK       Jour 293 CODE : COD0OPSFIN_20232930000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:51  WARNING   ABSENT   Jour 293 JPL : jplg2930.23i.Z
+2026-05-25 09:31:54  INFO      OK       Jour 294 CODE : COD0OPSFIN_20232940000_01D_01H_GIM.INX.gz
+2026-05-25 09:31:57  WARNING   ABSENT   Jour 294 JPL : jplg2940.23i.Z
+2026-05-25 09:32:00  INFO      OK       Jour 295 CODE : COD0OPSFIN_20232950000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:02  WARNING   ABSENT   Jour 295 JPL : jplg2950.23i.Z
+2026-05-25 09:32:05  INFO      OK       Jour 296 CODE : COD0OPSFIN_20232960000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:07  WARNING   ABSENT   Jour 296 JPL : jplg2960.23i.Z
+2026-05-25 09:32:12  INFO      OK       Jour 297 CODE : COD0OPSFIN_20232970000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:14  WARNING   ABSENT   Jour 297 JPL : jplg2970.23i.Z
+2026-05-25 09:32:17  INFO      OK       Jour 298 CODE : COD0OPSFIN_20232980000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:19  WARNING   ABSENT   Jour 298 JPL : jplg2980.23i.Z
+2026-05-25 09:32:23  INFO      OK       Jour 299 CODE : COD0OPSFIN_20232990000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:25  WARNING   ABSENT   Jour 299 JPL : jplg2990.23i.Z
+2026-05-25 09:32:30  INFO      OK       Jour 300 CODE : COD0OPSFIN_20233000000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:32  WARNING   ABSENT   Jour 300 JPL : jplg3000.23i.Z
+2026-05-25 09:32:35  INFO      OK       Jour 301 CODE : COD0OPSFIN_20233010000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:37  WARNING   ABSENT   Jour 301 JPL : jplg3010.23i.Z
+2026-05-25 09:32:42  INFO      OK       Jour 302 CODE : COD0OPSFIN_20233020000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:45  WARNING   ABSENT   Jour 302 JPL : jplg3020.23i.Z
+2026-05-25 09:32:48  INFO      OK       Jour 303 CODE : COD0OPSFIN_20233030000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:51  WARNING   ABSENT   Jour 303 JPL : jplg3030.23i.Z
+2026-05-25 09:32:54  INFO      OK       Jour 304 CODE : COD0OPSFIN_20233040000_01D_01H_GIM.INX.gz
+2026-05-25 09:32:56  WARNING   ABSENT   Jour 304 JPL : jplg3040.23i.Z
+2026-05-25 09:32:59  INFO      OK       Jour 305 CODE : COD0OPSFIN_20233050000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:01  WARNING   ABSENT   Jour 305 JPL : jplg3050.23i.Z
+2026-05-25 09:33:05  INFO      OK       Jour 306 CODE : COD0OPSFIN_20233060000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:07  WARNING   ABSENT   Jour 306 JPL : jplg3060.23i.Z
+2026-05-25 09:33:10  INFO      OK       Jour 307 CODE : COD0OPSFIN_20233070000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:12  WARNING   ABSENT   Jour 307 JPL : jplg3070.23i.Z
+2026-05-25 09:33:15  INFO      OK       Jour 308 CODE : COD0OPSFIN_20233080000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:17  WARNING   ABSENT   Jour 308 JPL : jplg3080.23i.Z
+2026-05-25 09:33:21  INFO      OK       Jour 309 CODE : COD0OPSFIN_20233090000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:23  WARNING   ABSENT   Jour 309 JPL : jplg3090.23i.Z
+2026-05-25 09:33:26  INFO      OK       Jour 310 CODE : COD0OPSFIN_20233100000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:29  WARNING   ABSENT   Jour 310 JPL : jplg3100.23i.Z
+2026-05-25 09:33:32  INFO      OK       Jour 311 CODE : COD0OPSFIN_20233110000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:34  WARNING   ABSENT   Jour 311 JPL : jplg3110.23i.Z
+2026-05-25 09:33:37  INFO      OK       Jour 312 CODE : COD0OPSFIN_20233120000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:39  WARNING   ABSENT   Jour 312 JPL : jplg3120.23i.Z
+2026-05-25 09:33:42  INFO      OK       Jour 313 CODE : COD0OPSFIN_20233130000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:44  WARNING   ABSENT   Jour 313 JPL : jplg3130.23i.Z
+2026-05-25 09:33:48  INFO      OK       Jour 314 CODE : COD0OPSFIN_20233140000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:50  WARNING   ABSENT   Jour 314 JPL : jplg3140.23i.Z
+2026-05-25 09:33:56  INFO      OK       Jour 315 CODE : COD0OPSFIN_20233150000_01D_01H_GIM.INX.gz
+2026-05-25 09:33:58  WARNING   ABSENT   Jour 315 JPL : jplg3150.23i.Z
+2026-05-25 09:34:02  INFO      OK       Jour 316 CODE : COD0OPSFIN_20233160000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:04  WARNING   ABSENT   Jour 316 JPL : jplg3160.23i.Z
+2026-05-25 09:34:08  INFO      OK       Jour 317 CODE : COD0OPSFIN_20233170000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:11  WARNING   ABSENT   Jour 317 JPL : jplg3170.23i.Z
+2026-05-25 09:34:14  INFO      OK       Jour 318 CODE : COD0OPSFIN_20233180000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:16  WARNING   ABSENT   Jour 318 JPL : jplg3180.23i.Z
+2026-05-25 09:34:19  INFO      OK       Jour 319 CODE : COD0OPSFIN_20233190000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:22  WARNING   ABSENT   Jour 319 JPL : jplg3190.23i.Z
+2026-05-25 09:34:25  INFO      OK       Jour 320 CODE : COD0OPSFIN_20233200000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:27  WARNING   ABSENT   Jour 320 JPL : jplg3200.23i.Z
+2026-05-25 09:34:30  INFO      OK       Jour 321 CODE : COD0OPSFIN_20233210000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:32  WARNING   ABSENT   Jour 321 JPL : jplg3210.23i.Z
+2026-05-25 09:34:35  INFO      OK       Jour 322 CODE : COD0OPSFIN_20233220000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:38  WARNING   ABSENT   Jour 322 JPL : jplg3220.23i.Z
+2026-05-25 09:34:41  INFO      OK       Jour 323 CODE : COD0OPSFIN_20233230000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:43  WARNING   ABSENT   Jour 323 JPL : jplg3230.23i.Z
+2026-05-25 09:34:46  INFO      OK       Jour 324 CODE : COD0OPSFIN_20233240000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:49  WARNING   ABSENT   Jour 324 JPL : jplg3240.23i.Z
+2026-05-25 09:34:53  INFO      OK       Jour 325 CODE : COD0OPSFIN_20233250000_01D_01H_GIM.INX.gz
+2026-05-25 09:34:55  WARNING   ABSENT   Jour 325 JPL : jplg3250.23i.Z
+2026-05-25 09:34:58  INFO      OK       Jour 326 CODE : COD0OPSFIN_20233260000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:00  WARNING   ABSENT   Jour 326 JPL : jplg3260.23i.Z
+2026-05-25 09:35:05  INFO      OK       Jour 327 CODE : COD0OPSFIN_20233270000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:08  WARNING   ABSENT   Jour 327 JPL : jplg3270.23i.Z
+2026-05-25 09:35:11  INFO      OK       Jour 328 CODE : COD0OPSFIN_20233280000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:13  WARNING   ABSENT   Jour 328 JPL : jplg3280.23i.Z
+2026-05-25 09:35:16  INFO      OK       Jour 329 CODE : COD0OPSFIN_20233290000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:19  WARNING   ABSENT   Jour 329 JPL : jplg3290.23i.Z
+2026-05-25 09:35:22  INFO      OK       Jour 330 CODE : COD0OPSFIN_20233300000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:25  WARNING   ABSENT   Jour 330 JPL : jplg3300.23i.Z
+2026-05-25 09:35:28  INFO      OK       Jour 331 CODE : COD0OPSFIN_20233310000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:31  WARNING   ABSENT   Jour 331 JPL : jplg3310.23i.Z
+2026-05-25 09:35:34  INFO      OK       Jour 332 CODE : COD0OPSFIN_20233320000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:36  WARNING   ABSENT   Jour 332 JPL : jplg3320.23i.Z
+2026-05-25 09:35:39  INFO      OK       Jour 333 CODE : COD0OPSFIN_20233330000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:43  WARNING   ABSENT   Jour 333 JPL : jplg3330.23i.Z
+2026-05-25 09:35:46  INFO      OK       Jour 334 CODE : COD0OPSFIN_20233340000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:49  WARNING   ABSENT   Jour 334 JPL : jplg3340.23i.Z
+2026-05-25 09:35:52  INFO      OK       Jour 335 CODE : COD0OPSFIN_20233350000_01D_01H_GIM.INX.gz
+2026-05-25 09:35:54  WARNING   ABSENT   Jour 335 JPL : jplg3350.23i.Z
+2026-05-25 09:35:57  INFO      OK       Jour 336 CODE : COD0OPSFIN_20233360000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:00  WARNING   ABSENT   Jour 336 JPL : jplg3360.23i.Z
+2026-05-25 09:36:04  INFO      OK       Jour 337 CODE : COD0OPSFIN_20233370000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:06  WARNING   ABSENT   Jour 337 JPL : jplg3370.23i.Z
+2026-05-25 09:36:09  INFO      OK       Jour 338 CODE : COD0OPSFIN_20233380000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:12  WARNING   ABSENT   Jour 338 JPL : jplg3380.23i.Z
+2026-05-25 09:36:15  INFO      OK       Jour 339 CODE : COD0OPSFIN_20233390000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:17  WARNING   ABSENT   Jour 339 JPL : jplg3390.23i.Z
+2026-05-25 09:36:20  INFO      OK       Jour 340 CODE : COD0OPSFIN_20233400000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:22  WARNING   ABSENT   Jour 340 JPL : jplg3400.23i.Z
+2026-05-25 09:36:26  INFO      OK       Jour 341 CODE : COD0OPSFIN_20233410000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:29  WARNING   ABSENT   Jour 341 JPL : jplg3410.23i.Z
+2026-05-25 09:36:32  INFO      OK       Jour 342 CODE : COD0OPSFIN_20233420000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:34  WARNING   ABSENT   Jour 342 JPL : jplg3420.23i.Z
+2026-05-25 09:36:37  INFO      OK       Jour 343 CODE : COD0OPSFIN_20233430000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:39  WARNING   ABSENT   Jour 343 JPL : jplg3430.23i.Z
+2026-05-25 09:36:43  INFO      OK       Jour 344 CODE : COD0OPSFIN_20233440000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:46  WARNING   ABSENT   Jour 344 JPL : jplg3440.23i.Z
+2026-05-25 09:36:49  INFO      OK       Jour 345 CODE : COD0OPSFIN_20233450000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:51  WARNING   ABSENT   Jour 345 JPL : jplg3450.23i.Z
+2026-05-25 09:36:54  INFO      OK       Jour 346 CODE : COD0OPSFIN_20233460000_01D_01H_GIM.INX.gz
+2026-05-25 09:36:56  WARNING   ABSENT   Jour 346 JPL : jplg3460.23i.Z
+2026-05-25 09:36:59  INFO      OK       Jour 347 CODE : COD0OPSFIN_20233470000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:01  WARNING   ABSENT   Jour 347 JPL : jplg3470.23i.Z
+2026-05-25 09:37:04  INFO      OK       Jour 348 CODE : COD0OPSFIN_20233480000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:07  WARNING   ABSENT   Jour 348 JPL : jplg3480.23i.Z
+2026-05-25 09:37:10  INFO      OK       Jour 349 CODE : COD0OPSFIN_20233490000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:13  WARNING   ABSENT   Jour 349 JPL : jplg3490.23i.Z
+2026-05-25 09:37:16  INFO      OK       Jour 350 CODE : COD0OPSFIN_20233500000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:18  WARNING   ABSENT   Jour 350 JPL : jplg3500.23i.Z
+2026-05-25 09:37:21  INFO      OK       Jour 351 CODE : COD0OPSFIN_20233510000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:23  WARNING   ABSENT   Jour 351 JPL : jplg3510.23i.Z
+2026-05-25 09:37:26  INFO      OK       Jour 352 CODE : COD0OPSFIN_20233520000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:28  WARNING   ABSENT   Jour 352 JPL : jplg3520.23i.Z
+2026-05-25 09:37:32  INFO      OK       Jour 353 CODE : COD0OPSFIN_20233530000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:34  WARNING   ABSENT   Jour 353 JPL : jplg3530.23i.Z
+2026-05-25 09:37:38  INFO      OK       Jour 354 CODE : COD0OPSFIN_20233540000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:40  WARNING   ABSENT   Jour 354 JPL : jplg3540.23i.Z
+2026-05-25 09:37:43  INFO      OK       Jour 355 CODE : COD0OPSFIN_20233550000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:45  WARNING   ABSENT   Jour 355 JPL : jplg3550.23i.Z
+2026-05-25 09:37:48  INFO      OK       Jour 356 CODE : COD0OPSFIN_20233560000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:50  WARNING   ABSENT   Jour 356 JPL : jplg3560.23i.Z
+2026-05-25 09:37:53  INFO      OK       Jour 357 CODE : COD0OPSFIN_20233570000_01D_01H_GIM.INX.gz
+2026-05-25 09:37:55  WARNING   ABSENT   Jour 357 JPL : jplg3570.23i.Z
+2026-05-25 09:38:00  INFO      OK       Jour 358 CODE : COD0OPSFIN_20233580000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:03  WARNING   ABSENT   Jour 358 JPL : jplg3580.23i.Z
+2026-05-25 09:38:06  INFO      OK       Jour 359 CODE : COD0OPSFIN_20233590000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:09  WARNING   ABSENT   Jour 359 JPL : jplg3590.23i.Z
+2026-05-25 09:38:14  INFO      OK       Jour 360 CODE : COD0OPSFIN_20233600000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:16  WARNING   ABSENT   Jour 360 JPL : jplg3600.23i.Z
+2026-05-25 09:38:19  INFO      OK       Jour 361 CODE : COD0OPSFIN_20233610000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:23  WARNING   ABSENT   Jour 361 JPL : jplg3610.23i.Z
+2026-05-25 09:38:26  INFO      OK       Jour 362 CODE : COD0OPSFIN_20233620000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:28  WARNING   ABSENT   Jour 362 JPL : jplg3620.23i.Z
+2026-05-25 09:38:31  INFO      OK       Jour 363 CODE : COD0OPSFIN_20233630000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:33  WARNING   ABSENT   Jour 363 JPL : jplg3630.23i.Z
+2026-05-25 09:38:36  INFO      OK       Jour 364 CODE : COD0OPSFIN_20233640000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:39  WARNING   ABSENT   Jour 364 JPL : jplg3640.23i.Z
+2026-05-25 09:38:42  INFO      OK       Jour 365 CODE : COD0OPSFIN_20233650000_01D_01H_GIM.INX.gz
+2026-05-25 09:38:44  WARNING   ABSENT   Jour 365 JPL : jplg3650.23i.Z
+2026-05-25 09:38:45  INFO      ============================================================
+2026-05-25 09:38:45  INFO      RÉSUMÉ DU TÉLÉCHARGEMENT
+2026-05-25 09:38:45  INFO        Fichiers téléchargés : 554
+2026-05-25 09:38:45  INFO        Fichiers absents     : 147  (jours manquants sur CDDIS)
+2026-05-25 09:38:45  INFO        Échecs               : 29
+2026-05-25 09:38:45  INFO      ============================================================
+2026-05-25 09:38:45  WARNING   Fichiers en échec à relancer :
+2026-05-25 09:38:45  WARNING     Jour 002 JPL : jplg0020.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 003 JPL : jplg0030.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 005 JPL : jplg0050.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 006 JPL : jplg0060.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 007 JPL : jplg0070.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 008 JPL : jplg0080.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 009 JPL : jplg0090.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 011 JPL : jplg0110.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 012 JPL : jplg0120.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 013 JPL : jplg0130.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 014 JPL : jplg0140.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 015 JPL : jplg0150.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 016 JPL : jplg0160.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 017 JPL : jplg0170.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 018 JPL : jplg0180.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 019 JPL : jplg0190.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 020 JPL : jplg0200.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 021 JPL : jplg0210.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 022 JPL : jplg0220.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 024 JPL : jplg0240.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 025 JPL : jplg0250.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 029 JPL : jplg0290.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 030 JPL : jplg0300.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 031 JPL : jplg0310.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 033 JPL : jplg0330.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 034 JPL : jplg0340.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 035 JPL : jplg0350.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 036 JPL : jplg0360.23i.Z
+2026-05-25 09:38:45  WARNING     Jour 043 JPL : jplg0430.23i.Z
+2026-05-25 09:57:48  INFO      ============================================================
+2026-05-25 09:57:48  INFO      Démarrage du téléchargement IONEX 2023
+2026-05-25 09:57:48  INFO      Centres : CODE + JPL | Jours : 001 à 365
+2026-05-25 09:57:48  INFO      Dossier de sortie : C:\Users\hp\OneDrive\traveaux_memoire_EGNOS\Code\data\ionex\2023
+2026-05-25 09:57:48  INFO      ============================================================
+2026-05-25 09:57:54  INFO      OK       Jour 002 JPL : jplg0020.23i.Z
+2026-05-25 09:57:57  INFO      OK       Jour 003 JPL : jplg0030.23i.Z
+2026-05-25 09:58:08  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 09:58:20  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 09:58:32  INFO      OK       Jour 005 JPL : jplg0050.23i.Z
+2026-05-25 09:58:43  INFO      OK       Jour 006 JPL : jplg0060.23i.Z
+2026-05-25 09:59:47  WARNING     Timeout - tentative 1/3
+2026-05-25 09:59:57  INFO      OK       Jour 007 JPL : jplg0070.23i.Z
+2026-05-25 10:00:05  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:00:12  INFO      OK       Jour 008 JPL : jplg0080.23i.Z
+2026-05-25 10:00:25  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:00:33  INFO      OK       Jour 009 JPL : jplg0090.23i.Z
+2026-05-25 10:00:47  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:00:57  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:01:12  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:01:27  ERROR     ÉCHEC    Jour 011 JPL : jplg0110.23i.Z
+2026-05-25 10:01:33  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:01:40  INFO      OK       Jour 012 JPL : jplg0120.23i.Z
+2026-05-25 10:01:53  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:02:02  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:02:17  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:02:32  ERROR     ÉCHEC    Jour 013 JPL : jplg0130.23i.Z
+2026-05-25 10:02:37  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:02:47  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:02:59  INFO      OK       Jour 014 JPL : jplg0140.23i.Z
+2026-05-25 10:03:08  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:03:15  INFO      OK       Jour 015 JPL : jplg0150.23i.Z
+2026-05-25 10:03:27  INFO      OK       Jour 016 JPL : jplg0160.23i.Z
+2026-05-25 10:03:39  INFO      OK       Jour 017 JPL : jplg0170.23i.Z
+2026-05-25 10:03:50  INFO      OK       Jour 018 JPL : jplg0180.23i.Z
+2026-05-25 10:04:03  INFO      OK       Jour 019 JPL : jplg0190.23i.Z
+2026-05-25 10:04:16  INFO      OK       Jour 020 JPL : jplg0200.23i.Z
+2026-05-25 10:04:30  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:04:40  INFO      OK       Jour 021 JPL : jplg0210.23i.Z
+2026-05-25 10:04:54  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:05:07  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:05:28  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:05:43  ERROR     ÉCHEC    Jour 022 JPL : jplg0220.23i.Z
+2026-05-25 10:05:50  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:06:00  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:06:16  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:06:31  ERROR     ÉCHEC    Jour 024 JPL : jplg0240.23i.Z
+2026-05-25 10:06:35  INFO      OK       Jour 025 JPL : jplg0250.23i.Z
+2026-05-25 10:06:45  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:06:55  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:07:08  INFO      OK       Jour 029 JPL : jplg0290.23i.Z
+2026-05-25 10:07:21  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:07:36  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:07:51  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:08:06  ERROR     ÉCHEC    Jour 030 JPL : jplg0300.23i.Z
+2026-05-25 10:08:13  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:08:22  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:08:37  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:08:52  ERROR     ÉCHEC    Jour 031 JPL : jplg0310.23i.Z
+2026-05-25 10:09:00  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:09:11  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:09:24  INFO      OK       Jour 033 JPL : jplg0330.23i.Z
+2026-05-25 10:09:36  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:09:46  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:10:00  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:10:15  ERROR     ÉCHEC    Jour 034 JPL : jplg0340.23i.Z
+2026-05-25 10:10:22  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:10:40  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 10:10:55  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:11:10  ERROR     ÉCHEC    Jour 035 JPL : jplg0350.23i.Z
+2026-05-25 10:11:20  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:11:31  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:11:47  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:12:02  ERROR     ÉCHEC    Jour 036 JPL : jplg0360.23i.Z
+2026-05-25 10:12:08  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:12:24  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 10:12:42  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 10:12:57  ERROR     ÉCHEC    Jour 043 JPL : jplg0430.23i.Z
+2026-05-25 10:13:02  WARNING   ABSENT   Jour 212 JPL : jplg2120.23i.Z
+2026-05-25 10:13:06  WARNING   ABSENT   Jour 220 JPL : jplg2200.23i.Z
+2026-05-25 10:13:11  WARNING   ABSENT   Jour 221 JPL : jplg2210.23i.Z
+2026-05-25 10:13:14  WARNING   ABSENT   Jour 222 JPL : jplg2220.23i.Z
+2026-05-25 10:13:18  WARNING   ABSENT   Jour 223 JPL : jplg2230.23i.Z
+2026-05-25 10:13:22  WARNING   ABSENT   Jour 224 JPL : jplg2240.23i.Z
+2026-05-25 10:13:26  WARNING   ABSENT   Jour 225 JPL : jplg2250.23i.Z
+2026-05-25 10:13:31  WARNING   ABSENT   Jour 226 JPL : jplg2260.23i.Z
+2026-05-25 10:13:34  WARNING   ABSENT   Jour 227 JPL : jplg2270.23i.Z
+2026-05-25 10:13:38  WARNING   ABSENT   Jour 228 JPL : jplg2280.23i.Z
+2026-05-25 10:13:42  WARNING   ABSENT   Jour 229 JPL : jplg2290.23i.Z
+2026-05-25 10:13:46  WARNING   ABSENT   Jour 230 JPL : jplg2300.23i.Z
+2026-05-25 10:13:51  WARNING   ABSENT   Jour 231 JPL : jplg2310.23i.Z
+2026-05-25 10:13:55  WARNING   ABSENT   Jour 232 JPL : jplg2320.23i.Z
+2026-05-25 10:13:59  WARNING   ABSENT   Jour 233 JPL : jplg2330.23i.Z
+2026-05-25 10:14:03  WARNING   ABSENT   Jour 234 JPL : jplg2340.23i.Z
+2026-05-25 10:14:08  WARNING   ABSENT   Jour 235 JPL : jplg2350.23i.Z
+2026-05-25 10:14:14  WARNING   ABSENT   Jour 236 JPL : jplg2360.23i.Z
+2026-05-25 10:14:19  WARNING   ABSENT   Jour 237 JPL : jplg2370.23i.Z
+2026-05-25 10:14:23  WARNING   ABSENT   Jour 238 JPL : jplg2380.23i.Z
+2026-05-25 10:14:27  WARNING   ABSENT   Jour 239 JPL : jplg2390.23i.Z
+2026-05-25 10:14:32  WARNING   ABSENT   Jour 240 JPL : jplg2400.23i.Z
+2026-05-25 10:14:37  WARNING   ABSENT   Jour 241 JPL : jplg2410.23i.Z
+2026-05-25 10:14:41  WARNING   ABSENT   Jour 242 JPL : jplg2420.23i.Z
+2026-05-25 10:14:47  WARNING   ABSENT   Jour 243 JPL : jplg2430.23i.Z
+2026-05-25 10:14:53  WARNING   ABSENT   Jour 244 JPL : jplg2440.23i.Z
+2026-05-25 10:14:57  WARNING   ABSENT   Jour 245 JPL : jplg2450.23i.Z
+2026-05-25 10:15:01  WARNING   ABSENT   Jour 246 JPL : jplg2460.23i.Z
+2026-05-25 10:15:04  WARNING   ABSENT   Jour 247 JPL : jplg2470.23i.Z
+2026-05-25 10:15:08  WARNING   ABSENT   Jour 248 JPL : jplg2480.23i.Z
+2026-05-25 10:15:11  WARNING   ABSENT   Jour 249 JPL : jplg2490.23i.Z
+2026-05-25 10:15:15  WARNING   ABSENT   Jour 250 JPL : jplg2500.23i.Z
+2026-05-25 10:15:20  WARNING   ABSENT   Jour 251 JPL : jplg2510.23i.Z
+2026-05-25 10:15:24  WARNING   ABSENT   Jour 252 JPL : jplg2520.23i.Z
+2026-05-25 10:15:29  WARNING   ABSENT   Jour 253 JPL : jplg2530.23i.Z
+2026-05-25 10:15:34  WARNING   ABSENT   Jour 254 JPL : jplg2540.23i.Z
+2026-05-25 10:15:38  WARNING   ABSENT   Jour 255 JPL : jplg2550.23i.Z
+2026-05-25 10:15:41  WARNING   ABSENT   Jour 256 JPL : jplg2560.23i.Z
+2026-05-25 10:15:46  WARNING   ABSENT   Jour 257 JPL : jplg2570.23i.Z
+2026-05-25 10:15:53  WARNING   ABSENT   Jour 258 JPL : jplg2580.23i.Z
+2026-05-25 10:15:57  WARNING   ABSENT   Jour 259 JPL : jplg2590.23i.Z
+2026-05-25 10:16:01  WARNING   ABSENT   Jour 260 JPL : jplg2600.23i.Z
+2026-05-25 10:16:04  WARNING   ABSENT   Jour 261 JPL : jplg2610.23i.Z
+2026-05-25 10:16:08  WARNING   ABSENT   Jour 262 JPL : jplg2620.23i.Z
+2026-05-25 10:16:12  WARNING   ABSENT   Jour 263 JPL : jplg2630.23i.Z
+2026-05-25 10:16:19  WARNING   ABSENT   Jour 264 JPL : jplg2640.23i.Z
+2026-05-25 10:16:23  WARNING   ABSENT   Jour 265 JPL : jplg2650.23i.Z
+2026-05-25 10:16:28  WARNING   ABSENT   Jour 266 JPL : jplg2660.23i.Z
+2026-05-25 10:16:32  WARNING   ABSENT   Jour 267 JPL : jplg2670.23i.Z
+2026-05-25 10:16:34  WARNING   ABSENT   Jour 268 JPL : jplg2680.23i.Z
+2026-05-25 10:16:37  WARNING   ABSENT   Jour 269 JPL : jplg2690.23i.Z
+2026-05-25 10:16:42  WARNING   ABSENT   Jour 270 JPL : jplg2700.23i.Z
+2026-05-25 10:16:50  WARNING   ABSENT   Jour 271 JPL : jplg2710.23i.Z
+2026-05-25 10:16:55  WARNING   ABSENT   Jour 272 JPL : jplg2720.23i.Z
+2026-05-25 10:17:00  WARNING   ABSENT   Jour 273 JPL : jplg2730.23i.Z
+2026-05-25 10:17:08  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:17:16  WARNING   ABSENT   Jour 274 JPL : jplg2740.23i.Z
+2026-05-25 10:17:22  WARNING   ABSENT   Jour 275 JPL : jplg2750.23i.Z
+2026-05-25 10:17:27  WARNING   ABSENT   Jour 276 JPL : jplg2760.23i.Z
+2026-05-25 10:17:32  WARNING   ABSENT   Jour 277 JPL : jplg2770.23i.Z
+2026-05-25 10:17:37  WARNING   ABSENT   Jour 278 JPL : jplg2780.23i.Z
+2026-05-25 10:17:43  WARNING   ABSENT   Jour 279 JPL : jplg2790.23i.Z
+2026-05-25 10:17:50  WARNING   ABSENT   Jour 280 JPL : jplg2800.23i.Z
+2026-05-25 10:17:54  WARNING   ABSENT   Jour 281 JPL : jplg2810.23i.Z
+2026-05-25 10:17:58  WARNING   ABSENT   Jour 282 JPL : jplg2820.23i.Z
+2026-05-25 10:18:02  WARNING   ABSENT   Jour 283 JPL : jplg2830.23i.Z
+2026-05-25 10:18:07  WARNING   ABSENT   Jour 284 JPL : jplg2840.23i.Z
+2026-05-25 10:18:12  WARNING   ABSENT   Jour 285 JPL : jplg2850.23i.Z
+2026-05-25 10:18:16  WARNING   ABSENT   Jour 286 JPL : jplg2860.23i.Z
+2026-05-25 10:18:21  WARNING   ABSENT   Jour 287 JPL : jplg2870.23i.Z
+2026-05-25 10:18:26  WARNING   ABSENT   Jour 288 JPL : jplg2880.23i.Z
+2026-05-25 10:18:29  WARNING   ABSENT   Jour 289 JPL : jplg2890.23i.Z
+2026-05-25 10:18:39  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:18:49  WARNING   ABSENT   Jour 290 JPL : jplg2900.23i.Z
+2026-05-25 10:18:55  WARNING   ABSENT   Jour 291 JPL : jplg2910.23i.Z
+2026-05-25 10:19:02  WARNING   ABSENT   Jour 292 JPL : jplg2920.23i.Z
+2026-05-25 10:19:06  WARNING   ABSENT   Jour 293 JPL : jplg2930.23i.Z
+2026-05-25 10:19:11  WARNING   ABSENT   Jour 294 JPL : jplg2940.23i.Z
+2026-05-25 10:19:14  WARNING   ABSENT   Jour 295 JPL : jplg2950.23i.Z
+2026-05-25 10:19:18  WARNING   ABSENT   Jour 296 JPL : jplg2960.23i.Z
+2026-05-25 10:19:23  WARNING   ABSENT   Jour 297 JPL : jplg2970.23i.Z
+2026-05-25 10:19:27  WARNING   ABSENT   Jour 298 JPL : jplg2980.23i.Z
+2026-05-25 10:19:30  WARNING   ABSENT   Jour 299 JPL : jplg2990.23i.Z
+2026-05-25 10:19:36  WARNING   ABSENT   Jour 300 JPL : jplg3000.23i.Z
+2026-05-25 10:19:40  WARNING   ABSENT   Jour 301 JPL : jplg3010.23i.Z
+2026-05-25 10:19:47  WARNING   ABSENT   Jour 302 JPL : jplg3020.23i.Z
+2026-05-25 10:19:54  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:20:06  WARNING   ABSENT   Jour 303 JPL : jplg3030.23i.Z
+2026-05-25 10:20:12  WARNING   ABSENT   Jour 304 JPL : jplg3040.23i.Z
+2026-05-25 10:20:18  WARNING   ABSENT   Jour 305 JPL : jplg3050.23i.Z
+2026-05-25 10:20:24  WARNING   ABSENT   Jour 306 JPL : jplg3060.23i.Z
+2026-05-25 10:20:30  WARNING   ABSENT   Jour 307 JPL : jplg3070.23i.Z
+2026-05-25 10:20:33  WARNING   ABSENT   Jour 308 JPL : jplg3080.23i.Z
+2026-05-25 10:20:36  WARNING   ABSENT   Jour 309 JPL : jplg3090.23i.Z
+2026-05-25 10:20:39  WARNING   ABSENT   Jour 310 JPL : jplg3100.23i.Z
+2026-05-25 10:20:45  WARNING   ABSENT   Jour 311 JPL : jplg3110.23i.Z
+2026-05-25 10:20:52  WARNING   ABSENT   Jour 312 JPL : jplg3120.23i.Z
+2026-05-25 10:21:00  WARNING   ABSENT   Jour 313 JPL : jplg3130.23i.Z
+2026-05-25 10:21:04  WARNING   ABSENT   Jour 314 JPL : jplg3140.23i.Z
+2026-05-25 10:21:10  WARNING   ABSENT   Jour 315 JPL : jplg3150.23i.Z
+2026-05-25 10:21:16  WARNING   ABSENT   Jour 316 JPL : jplg3160.23i.Z
+2026-05-25 10:21:21  WARNING   ABSENT   Jour 317 JPL : jplg3170.23i.Z
+2026-05-25 10:21:31  WARNING   ABSENT   Jour 318 JPL : jplg3180.23i.Z
+2026-05-25 10:21:36  WARNING   ABSENT   Jour 319 JPL : jplg3190.23i.Z
+2026-05-25 10:21:41  WARNING   ABSENT   Jour 320 JPL : jplg3200.23i.Z
+2026-05-25 10:21:49  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 10:22:00  WARNING   ABSENT   Jour 321 JPL : jplg3210.23i.Z
+2026-05-25 10:22:04  WARNING   ABSENT   Jour 322 JPL : jplg3220.23i.Z
+2026-05-25 10:22:09  WARNING   ABSENT   Jour 323 JPL : jplg3230.23i.Z
+2026-05-25 10:22:13  WARNING   ABSENT   Jour 324 JPL : jplg3240.23i.Z
+2026-05-25 10:22:18  WARNING   ABSENT   Jour 325 JPL : jplg3250.23i.Z
+2026-05-25 10:22:24  WARNING   ABSENT   Jour 326 JPL : jplg3260.23i.Z
+2026-05-25 10:23:31  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 10:24:40  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 10:24:52  WARNING   ABSENT   Jour 327 JPL : jplg3270.23i.Z
+2026-05-25 10:24:58  WARNING   ABSENT   Jour 328 JPL : jplg3280.23i.Z
+2026-05-25 10:25:02  WARNING   ABSENT   Jour 329 JPL : jplg3290.23i.Z
+2026-05-25 10:25:05  WARNING   ABSENT   Jour 330 JPL : jplg3300.23i.Z
+2026-05-25 10:25:09  WARNING   ABSENT   Jour 331 JPL : jplg3310.23i.Z
+2026-05-25 10:25:13  WARNING   ABSENT   Jour 332 JPL : jplg3320.23i.Z
+2026-05-25 10:25:18  WARNING   ABSENT   Jour 333 JPL : jplg3330.23i.Z
+2026-05-25 10:25:23  WARNING   ABSENT   Jour 334 JPL : jplg3340.23i.Z
+2026-05-25 10:25:27  WARNING   ABSENT   Jour 335 JPL : jplg3350.23i.Z
+2026-05-25 10:25:31  WARNING   ABSENT   Jour 336 JPL : jplg3360.23i.Z
+2026-05-25 10:25:35  WARNING   ABSENT   Jour 337 JPL : jplg3370.23i.Z
+2026-05-25 10:25:37  WARNING   ABSENT   Jour 338 JPL : jplg3380.23i.Z
+2026-05-25 10:25:40  WARNING   ABSENT   Jour 339 JPL : jplg3390.23i.Z
+2026-05-25 10:25:45  WARNING   ABSENT   Jour 340 JPL : jplg3400.23i.Z
+2026-05-25 10:25:50  WARNING   ABSENT   Jour 341 JPL : jplg3410.23i.Z
+2026-05-25 10:25:54  WARNING   ABSENT   Jour 342 JPL : jplg3420.23i.Z
+2026-05-25 10:25:58  WARNING   ABSENT   Jour 343 JPL : jplg3430.23i.Z
+2026-05-25 10:26:02  WARNING   ABSENT   Jour 344 JPL : jplg3440.23i.Z
+2026-05-25 10:26:05  WARNING   ABSENT   Jour 345 JPL : jplg3450.23i.Z
+2026-05-25 10:26:08  WARNING   ABSENT   Jour 346 JPL : jplg3460.23i.Z
+2026-05-25 10:26:10  WARNING   ABSENT   Jour 347 JPL : jplg3470.23i.Z
+2026-05-25 10:26:15  WARNING   ABSENT   Jour 348 JPL : jplg3480.23i.Z
+2026-05-25 10:26:20  WARNING   ABSENT   Jour 349 JPL : jplg3490.23i.Z
+2026-05-25 10:26:25  WARNING   ABSENT   Jour 350 JPL : jplg3500.23i.Z
+2026-05-25 10:26:29  WARNING   ABSENT   Jour 351 JPL : jplg3510.23i.Z
+2026-05-25 10:26:32  WARNING   ABSENT   Jour 352 JPL : jplg3520.23i.Z
+2026-05-25 10:26:35  WARNING   ABSENT   Jour 353 JPL : jplg3530.23i.Z
+2026-05-25 10:26:39  WARNING   ABSENT   Jour 354 JPL : jplg3540.23i.Z
+2026-05-25 10:26:41  WARNING   ABSENT   Jour 355 JPL : jplg3550.23i.Z
+2026-05-25 10:26:45  WARNING   ABSENT   Jour 356 JPL : jplg3560.23i.Z
+2026-05-25 10:26:50  WARNING   ABSENT   Jour 357 JPL : jplg3570.23i.Z
+2026-05-25 10:26:53  WARNING   ABSENT   Jour 358 JPL : jplg3580.23i.Z
+2026-05-25 10:26:58  WARNING   ABSENT   Jour 359 JPL : jplg3590.23i.Z
+2026-05-25 10:27:02  WARNING   ABSENT   Jour 360 JPL : jplg3600.23i.Z
+2026-05-25 10:27:08  WARNING   ABSENT   Jour 361 JPL : jplg3610.23i.Z
+2026-05-25 10:28:14  WARNING     Erreur réseau - tentative 1/3
+2026-05-25 10:29:23  WARNING     Erreur réseau - tentative 2/3
+2026-05-25 10:29:36  WARNING   ABSENT   Jour 362 JPL : jplg3620.23i.Z
+2026-05-25 10:29:41  WARNING   ABSENT   Jour 363 JPL : jplg3630.23i.Z
+2026-05-25 10:29:46  WARNING   ABSENT   Jour 364 JPL : jplg3640.23i.Z
+2026-05-25 10:29:50  WARNING   ABSENT   Jour 365 JPL : jplg3650.23i.Z
+2026-05-25 10:29:51  INFO      ============================================================
+2026-05-25 10:29:51  INFO      RÉSUMÉ DU TÉLÉCHARGEMENT
+2026-05-25 10:29:51  INFO        Fichiers téléchargés : 573
+2026-05-25 10:29:51  INFO        Fichiers absents     : 147  (jours manquants sur CDDIS)
+2026-05-25 10:29:51  INFO        Échecs               : 10
+2026-05-25 10:29:51  INFO      ============================================================
+2026-05-25 10:29:51  WARNING   Fichiers en échec à relancer :
+2026-05-25 10:29:51  WARNING     Jour 011 JPL : jplg0110.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 013 JPL : jplg0130.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 022 JPL : jplg0220.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 024 JPL : jplg0240.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 030 JPL : jplg0300.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 031 JPL : jplg0310.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 034 JPL : jplg0340.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 035 JPL : jplg0350.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 036 JPL : jplg0360.23i.Z
+2026-05-25 10:29:51  WARNING     Jour 043 JPL : jplg0430.23i.Z
+2026-05-25 13:11:22  INFO      ============================================================
+2026-05-25 13:11:22  INFO      Démarrage du téléchargement IONEX 2023
+2026-05-25 13:11:22  INFO      Centres : CODE + JPL | Jours : 001 à 365
+2026-05-25 13:11:22  INFO      Dossier de sortie : C:\Users\hp\OneDrive\traveaux_memoire_EGNOS\Code\data\ionex\2023
+2026-05-25 13:11:22  INFO      ============================================================
+2026-05-25 13:11:33  INFO      OK       Jour 011 JPL : jplg0110.23i.Z
+2026-05-25 13:11:43  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:11:54  INFO      OK       Jour 013 JPL : jplg0130.23i.Z
+2026-05-25 13:12:08  INFO      OK       Jour 022 JPL : jplg0220.23i.Z
+2026-05-25 13:12:21  INFO      OK       Jour 024 JPL : jplg0240.23i.Z
+2026-05-25 13:12:34  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:12:46  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 13:13:01  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 3/3
+2026-05-25 13:13:16  ERROR     ÉCHEC    Jour 030 JPL : jplg0300.23i.Z
+2026-05-25 13:13:23  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:13:32  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 13:13:44  INFO      OK       Jour 031 JPL : jplg0310.23i.Z
+2026-05-25 13:13:51  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:14:02  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 2/3
+2026-05-25 13:14:14  INFO      OK       Jour 034 JPL : jplg0340.23i.Z
+2026-05-25 13:14:25  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:14:34  INFO      OK       Jour 035 JPL : jplg0350.23i.Z
+2026-05-25 13:14:47  INFO      OK       Jour 036 JPL : jplg0360.23i.Z
+2026-05-25 13:14:59  INFO      OK       Jour 043 JPL : jplg0430.23i.Z
+2026-05-25 13:15:15  WARNING   ABSENT   Jour 212 JPL : jplg2120.23i.Z
+2026-05-25 13:15:21  WARNING   ABSENT   Jour 220 JPL : jplg2200.23i.Z
+2026-05-25 13:15:26  WARNING   ABSENT   Jour 221 JPL : jplg2210.23i.Z
+2026-05-25 13:15:34  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:15:44  WARNING   ABSENT   Jour 222 JPL : jplg2220.23i.Z
+2026-05-25 13:15:49  WARNING   ABSENT   Jour 223 JPL : jplg2230.23i.Z
+2026-05-25 13:15:51  WARNING   ABSENT   Jour 224 JPL : jplg2240.23i.Z
+2026-05-25 13:15:53  WARNING   ABSENT   Jour 225 JPL : jplg2250.23i.Z
+2026-05-25 13:15:57  WARNING   ABSENT   Jour 226 JPL : jplg2260.23i.Z
+2026-05-25 13:15:59  WARNING   ABSENT   Jour 227 JPL : jplg2270.23i.Z
+2026-05-25 13:16:01  WARNING   ABSENT   Jour 228 JPL : jplg2280.23i.Z
+2026-05-25 13:16:03  WARNING   ABSENT   Jour 229 JPL : jplg2290.23i.Z
+2026-05-25 13:16:09  WARNING   ABSENT   Jour 230 JPL : jplg2300.23i.Z
+2026-05-25 13:16:14  WARNING   ABSENT   Jour 231 JPL : jplg2310.23i.Z
+2026-05-25 13:16:17  WARNING   ABSENT   Jour 232 JPL : jplg2320.23i.Z
+2026-05-25 13:16:21  WARNING   ABSENT   Jour 233 JPL : jplg2330.23i.Z
+2026-05-25 13:16:24  WARNING   ABSENT   Jour 234 JPL : jplg2340.23i.Z
+2026-05-25 13:16:28  WARNING   ABSENT   Jour 235 JPL : jplg2350.23i.Z
+2026-05-25 13:16:32  WARNING   ABSENT   Jour 236 JPL : jplg2360.23i.Z
+2026-05-25 13:16:35  WARNING   ABSENT   Jour 237 JPL : jplg2370.23i.Z
+2026-05-25 13:16:42  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:16:53  WARNING   ABSENT   Jour 238 JPL : jplg2380.23i.Z
+2026-05-25 13:17:00  WARNING   ABSENT   Jour 239 JPL : jplg2390.23i.Z
+2026-05-25 13:17:06  WARNING   ABSENT   Jour 240 JPL : jplg2400.23i.Z
+2026-05-25 13:17:08  WARNING   ABSENT   Jour 241 JPL : jplg2410.23i.Z
+2026-05-25 13:17:11  WARNING   ABSENT   Jour 242 JPL : jplg2420.23i.Z
+2026-05-25 13:17:18  WARNING   ABSENT   Jour 243 JPL : jplg2430.23i.Z
+2026-05-25 13:17:25  WARNING   ABSENT   Jour 244 JPL : jplg2440.23i.Z
+2026-05-25 13:17:27  WARNING   ABSENT   Jour 245 JPL : jplg2450.23i.Z
+2026-05-25 13:17:29  WARNING   ABSENT   Jour 246 JPL : jplg2460.23i.Z
+2026-05-25 13:17:31  WARNING   ABSENT   Jour 247 JPL : jplg2470.23i.Z
+2026-05-25 13:17:34  WARNING   ABSENT   Jour 248 JPL : jplg2480.23i.Z
+2026-05-25 13:17:36  WARNING   ABSENT   Jour 249 JPL : jplg2490.23i.Z
+2026-05-25 13:17:38  WARNING   ABSENT   Jour 250 JPL : jplg2500.23i.Z
+2026-05-25 13:17:40  WARNING   ABSENT   Jour 251 JPL : jplg2510.23i.Z
+2026-05-25 13:17:42  WARNING   ABSENT   Jour 252 JPL : jplg2520.23i.Z
+2026-05-25 13:17:44  WARNING   ABSENT   Jour 253 JPL : jplg2530.23i.Z
+2026-05-25 13:17:47  WARNING   ABSENT   Jour 254 JPL : jplg2540.23i.Z
+2026-05-25 13:17:50  WARNING   ABSENT   Jour 255 JPL : jplg2550.23i.Z
+2026-05-25 13:17:52  WARNING   ABSENT   Jour 256 JPL : jplg2560.23i.Z
+2026-05-25 13:17:55  WARNING   ABSENT   Jour 257 JPL : jplg2570.23i.Z
+2026-05-25 13:17:59  WARNING   ABSENT   Jour 258 JPL : jplg2580.23i.Z
+2026-05-25 13:18:04  WARNING   ABSENT   Jour 259 JPL : jplg2590.23i.Z
+2026-05-25 13:18:08  WARNING   ABSENT   Jour 260 JPL : jplg2600.23i.Z
+2026-05-25 13:18:10  WARNING   ABSENT   Jour 261 JPL : jplg2610.23i.Z
+2026-05-25 13:18:12  WARNING   ABSENT   Jour 262 JPL : jplg2620.23i.Z
+2026-05-25 13:18:14  WARNING   ABSENT   Jour 263 JPL : jplg2630.23i.Z
+2026-05-25 13:18:18  WARNING   ABSENT   Jour 264 JPL : jplg2640.23i.Z
+2026-05-25 13:18:22  WARNING   ABSENT   Jour 265 JPL : jplg2650.23i.Z
+2026-05-25 13:18:24  WARNING   ABSENT   Jour 266 JPL : jplg2660.23i.Z
+2026-05-25 13:18:27  WARNING   ABSENT   Jour 267 JPL : jplg2670.23i.Z
+2026-05-25 13:18:29  WARNING   ABSENT   Jour 268 JPL : jplg2680.23i.Z
+2026-05-25 13:18:32  WARNING   ABSENT   Jour 269 JPL : jplg2690.23i.Z
+2026-05-25 13:18:34  WARNING   ABSENT   Jour 270 JPL : jplg2700.23i.Z
+2026-05-25 13:18:37  WARNING   ABSENT   Jour 271 JPL : jplg2710.23i.Z
+2026-05-25 13:18:40  WARNING   ABSENT   Jour 272 JPL : jplg2720.23i.Z
+2026-05-25 13:18:42  WARNING   ABSENT   Jour 273 JPL : jplg2730.23i.Z
+2026-05-25 13:18:44  WARNING   ABSENT   Jour 274 JPL : jplg2740.23i.Z
+2026-05-25 13:18:46  WARNING   ABSENT   Jour 275 JPL : jplg2750.23i.Z
+2026-05-25 13:18:50  WARNING   ABSENT   Jour 276 JPL : jplg2760.23i.Z
+2026-05-25 13:18:56  WARNING   ABSENT   Jour 277 JPL : jplg2770.23i.Z
+2026-05-25 13:19:03  WARNING   ABSENT   Jour 278 JPL : jplg2780.23i.Z
+2026-05-25 13:19:07  WARNING   ABSENT   Jour 279 JPL : jplg2790.23i.Z
+2026-05-25 13:19:11  WARNING   ABSENT   Jour 280 JPL : jplg2800.23i.Z
+2026-05-25 13:19:15  WARNING   ABSENT   Jour 281 JPL : jplg2810.23i.Z
+2026-05-25 13:19:17  WARNING   ABSENT   Jour 282 JPL : jplg2820.23i.Z
+2026-05-25 13:19:19  WARNING   ABSENT   Jour 283 JPL : jplg2830.23i.Z
+2026-05-25 13:19:21  WARNING   ABSENT   Jour 284 JPL : jplg2840.23i.Z
+2026-05-25 13:19:26  WARNING   ABSENT   Jour 285 JPL : jplg2850.23i.Z
+2026-05-25 13:19:29  WARNING   ABSENT   Jour 286 JPL : jplg2860.23i.Z
+2026-05-25 13:19:32  WARNING   ABSENT   Jour 287 JPL : jplg2870.23i.Z
+2026-05-25 13:19:36  WARNING   ABSENT   Jour 288 JPL : jplg2880.23i.Z
+2026-05-25 13:19:38  WARNING   ABSENT   Jour 289 JPL : jplg2890.23i.Z
+2026-05-25 13:19:41  WARNING   ABSENT   Jour 290 JPL : jplg2900.23i.Z
+2026-05-25 13:19:43  WARNING   ABSENT   Jour 291 JPL : jplg2910.23i.Z
+2026-05-25 13:19:45  WARNING   ABSENT   Jour 292 JPL : jplg2920.23i.Z
+2026-05-25 13:19:47  WARNING   ABSENT   Jour 293 JPL : jplg2930.23i.Z
+2026-05-25 13:19:49  WARNING   ABSENT   Jour 294 JPL : jplg2940.23i.Z
+2026-05-25 13:19:53  WARNING   ABSENT   Jour 295 JPL : jplg2950.23i.Z
+2026-05-25 13:19:55  WARNING   ABSENT   Jour 296 JPL : jplg2960.23i.Z
+2026-05-25 13:19:58  WARNING   ABSENT   Jour 297 JPL : jplg2970.23i.Z
+2026-05-25 13:20:00  WARNING   ABSENT   Jour 298 JPL : jplg2980.23i.Z
+2026-05-25 13:20:04  WARNING   ABSENT   Jour 299 JPL : jplg2990.23i.Z
+2026-05-25 13:20:08  WARNING   ABSENT   Jour 300 JPL : jplg3000.23i.Z
+2026-05-25 13:20:12  WARNING   ABSENT   Jour 301 JPL : jplg3010.23i.Z
+2026-05-25 13:20:16  WARNING   ABSENT   Jour 302 JPL : jplg3020.23i.Z
+2026-05-25 13:20:18  WARNING   ABSENT   Jour 303 JPL : jplg3030.23i.Z
+2026-05-25 13:20:20  WARNING   ABSENT   Jour 304 JPL : jplg3040.23i.Z
+2026-05-25 13:20:22  WARNING   ABSENT   Jour 305 JPL : jplg3050.23i.Z
+2026-05-25 13:20:24  WARNING   ABSENT   Jour 306 JPL : jplg3060.23i.Z
+2026-05-25 13:20:26  WARNING   ABSENT   Jour 307 JPL : jplg3070.23i.Z
+2026-05-25 13:20:28  WARNING   ABSENT   Jour 308 JPL : jplg3080.23i.Z
+2026-05-25 13:20:31  WARNING   ABSENT   Jour 309 JPL : jplg3090.23i.Z
+2026-05-25 13:20:33  WARNING   ABSENT   Jour 310 JPL : jplg3100.23i.Z
+2026-05-25 13:20:36  WARNING   ABSENT   Jour 311 JPL : jplg3110.23i.Z
+2026-05-25 13:20:38  WARNING   ABSENT   Jour 312 JPL : jplg3120.23i.Z
+2026-05-25 13:20:44  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:20:53  WARNING   ABSENT   Jour 313 JPL : jplg3130.23i.Z
+2026-05-25 13:20:58  WARNING   ABSENT   Jour 314 JPL : jplg3140.23i.Z
+2026-05-25 13:21:03  WARNING   ABSENT   Jour 315 JPL : jplg3150.23i.Z
+2026-05-25 13:21:05  WARNING   ABSENT   Jour 316 JPL : jplg3160.23i.Z
+2026-05-25 13:21:08  WARNING   ABSENT   Jour 317 JPL : jplg3170.23i.Z
+2026-05-25 13:21:10  WARNING   ABSENT   Jour 318 JPL : jplg3180.23i.Z
+2026-05-25 13:21:13  WARNING   ABSENT   Jour 319 JPL : jplg3190.23i.Z
+2026-05-25 13:21:15  WARNING   ABSENT   Jour 320 JPL : jplg3200.23i.Z
+2026-05-25 13:21:20  WARNING   ABSENT   Jour 321 JPL : jplg3210.23i.Z
+2026-05-25 13:21:25  WARNING   ABSENT   Jour 322 JPL : jplg3220.23i.Z
+2026-05-25 13:21:27  WARNING   ABSENT   Jour 323 JPL : jplg3230.23i.Z
+2026-05-25 13:21:32  WARNING   ABSENT   Jour 324 JPL : jplg3240.23i.Z
+2026-05-25 13:21:38  WARNING   ABSENT   Jour 325 JPL : jplg3250.23i.Z
+2026-05-25 13:21:40  WARNING   ABSENT   Jour 326 JPL : jplg3260.23i.Z
+2026-05-25 13:21:42  WARNING   ABSENT   Jour 327 JPL : jplg3270.23i.Z
+2026-05-25 13:21:45  WARNING   ABSENT   Jour 328 JPL : jplg3280.23i.Z
+2026-05-25 13:21:49  WARNING   ABSENT   Jour 329 JPL : jplg3290.23i.Z
+2026-05-25 13:21:51  WARNING   ABSENT   Jour 330 JPL : jplg3300.23i.Z
+2026-05-25 13:21:54  WARNING   ABSENT   Jour 331 JPL : jplg3310.23i.Z
+2026-05-25 13:21:57  WARNING   ABSENT   Jour 332 JPL : jplg3320.23i.Z
+2026-05-25 13:21:59  WARNING   ABSENT   Jour 333 JPL : jplg3330.23i.Z
+2026-05-25 13:22:02  WARNING   ABSENT   Jour 334 JPL : jplg3340.23i.Z
+2026-05-25 13:22:05  WARNING   ABSENT   Jour 335 JPL : jplg3350.23i.Z
+2026-05-25 13:22:10  WARNING   ABSENT   Jour 336 JPL : jplg3360.23i.Z
+2026-05-25 13:22:14  WARNING   ABSENT   Jour 337 JPL : jplg3370.23i.Z
+2026-05-25 13:22:16  WARNING   ABSENT   Jour 338 JPL : jplg3380.23i.Z
+2026-05-25 13:22:18  WARNING   ABSENT   Jour 339 JPL : jplg3390.23i.Z
+2026-05-25 13:22:20  WARNING   ABSENT   Jour 340 JPL : jplg3400.23i.Z
+2026-05-25 13:22:22  WARNING   ABSENT   Jour 341 JPL : jplg3410.23i.Z
+2026-05-25 13:22:25  WARNING   ABSENT   Jour 342 JPL : jplg3420.23i.Z
+2026-05-25 13:22:28  WARNING   ABSENT   Jour 343 JPL : jplg3430.23i.Z
+2026-05-25 13:22:30  WARNING   ABSENT   Jour 344 JPL : jplg3440.23i.Z
+2026-05-25 13:22:32  WARNING   ABSENT   Jour 345 JPL : jplg3450.23i.Z
+2026-05-25 13:22:36  WARNING   ABSENT   Jour 346 JPL : jplg3460.23i.Z
+2026-05-25 13:22:40  WARNING   ABSENT   Jour 347 JPL : jplg3470.23i.Z
+2026-05-25 13:22:44  WARNING   ABSENT   Jour 348 JPL : jplg3480.23i.Z
+2026-05-25 13:22:48  WARNING   ABSENT   Jour 349 JPL : jplg3490.23i.Z
+2026-05-25 13:22:53  WARNING   ABSENT   Jour 350 JPL : jplg3500.23i.Z
+2026-05-25 13:22:55  WARNING   ABSENT   Jour 351 JPL : jplg3510.23i.Z
+2026-05-25 13:22:57  WARNING   ABSENT   Jour 352 JPL : jplg3520.23i.Z
+2026-05-25 13:22:59  WARNING   ABSENT   Jour 353 JPL : jplg3530.23i.Z
+2026-05-25 13:23:01  WARNING   ABSENT   Jour 354 JPL : jplg3540.23i.Z
+2026-05-25 13:23:04  WARNING   ABSENT   Jour 355 JPL : jplg3550.23i.Z
+2026-05-25 13:23:07  WARNING   ABSENT   Jour 356 JPL : jplg3560.23i.Z
+2026-05-25 13:23:13  WARNING   ABSENT   Jour 357 JPL : jplg3570.23i.Z
+2026-05-25 13:23:16  WARNING   ABSENT   Jour 358 JPL : jplg3580.23i.Z
+2026-05-25 13:23:18  WARNING   ABSENT   Jour 359 JPL : jplg3590.23i.Z
+2026-05-25 13:23:23  WARNING   ABSENT   Jour 360 JPL : jplg3600.23i.Z
+2026-05-25 13:23:25  WARNING   ABSENT   Jour 361 JPL : jplg3610.23i.Z
+2026-05-25 13:23:28  WARNING   ABSENT   Jour 362 JPL : jplg3620.23i.Z
+2026-05-25 13:23:31  WARNING   ABSENT   Jour 363 JPL : jplg3630.23i.Z
+2026-05-25 13:23:35  WARNING   ABSENT   Jour 364 JPL : jplg3640.23i.Z
+2026-05-25 13:23:37  WARNING   ABSENT   Jour 365 JPL : jplg3650.23i.Z
+2026-05-25 13:23:38  INFO      ============================================================
+2026-05-25 13:23:38  INFO      RÉSUMÉ DU TÉLÉCHARGEMENT
+2026-05-25 13:23:38  INFO        Fichiers téléchargés : 582
+2026-05-25 13:23:38  INFO        Fichiers absents     : 147  (jours manquants sur CDDIS)
+2026-05-25 13:23:38  INFO        Échecs               : 1
+2026-05-25 13:23:38  INFO      ============================================================
+2026-05-25 13:23:38  WARNING   Fichiers en échec à relancer :
+2026-05-25 13:23:38  WARNING     Jour 030 JPL : jplg0300.23i.Z
+2026-05-25 13:55:06  INFO      ============================================================
+2026-05-25 13:55:06  INFO      Démarrage du téléchargement IONEX 2023
+2026-05-25 13:55:06  INFO      Centres : CODE + JPL | Jours : 001 à 365
+2026-05-25 13:55:06  INFO      Dossier de sortie : C:\Users\hp\OneDrive\traveaux_memoire_EGNOS\Code\data\ionex\2023
+2026-05-25 13:55:06  INFO      ============================================================
+2026-05-25 13:55:11  INFO      OK       Jour 030 JPL : jplg0300.23i.Z
+2026-05-25 13:55:19  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 13:55:25  WARNING   ABSENT   Jour 212 JPL : jplg2120.23i.Z
+2026-05-25 13:55:27  WARNING   ABSENT   Jour 220 JPL : jplg2200.23i.Z
+2026-05-25 13:55:31  WARNING   ABSENT   Jour 221 JPL : jplg2210.23i.Z
+2026-05-25 13:55:33  WARNING   ABSENT   Jour 222 JPL : jplg2220.23i.Z
+2026-05-25 13:55:35  WARNING   ABSENT   Jour 223 JPL : jplg2230.23i.Z
+2026-05-25 13:55:37  WARNING   ABSENT   Jour 224 JPL : jplg2240.23i.Z
+2026-05-25 13:55:39  WARNING   ABSENT   Jour 225 JPL : jplg2250.23i.Z
+2026-05-25 13:55:41  WARNING   ABSENT   Jour 226 JPL : jplg2260.23i.Z
+2026-05-25 13:55:43  WARNING   ABSENT   Jour 227 JPL : jplg2270.23i.Z
+2026-05-25 13:55:45  WARNING   ABSENT   Jour 228 JPL : jplg2280.23i.Z
+2026-05-25 13:55:47  WARNING   ABSENT   Jour 229 JPL : jplg2290.23i.Z
+2026-05-25 13:55:50  WARNING   ABSENT   Jour 230 JPL : jplg2300.23i.Z
+2026-05-25 13:55:52  WARNING   ABSENT   Jour 231 JPL : jplg2310.23i.Z
+2026-05-25 13:55:58  WARNING   ABSENT   Jour 232 JPL : jplg2320.23i.Z
+2026-05-25 13:56:00  WARNING   ABSENT   Jour 233 JPL : jplg2330.23i.Z
+2026-05-25 13:56:03  WARNING   ABSENT   Jour 234 JPL : jplg2340.23i.Z
+2026-05-25 13:56:05  WARNING   ABSENT   Jour 235 JPL : jplg2350.23i.Z
+2026-05-25 13:56:07  WARNING   ABSENT   Jour 236 JPL : jplg2360.23i.Z
+2026-05-25 13:56:09  WARNING   ABSENT   Jour 237 JPL : jplg2370.23i.Z
+2026-05-25 13:56:11  WARNING   ABSENT   Jour 238 JPL : jplg2380.23i.Z
+2026-05-25 13:56:13  WARNING   ABSENT   Jour 239 JPL : jplg2390.23i.Z
+2026-05-25 13:56:17  WARNING   ABSENT   Jour 240 JPL : jplg2400.23i.Z
+2026-05-25 13:56:19  WARNING   ABSENT   Jour 241 JPL : jplg2410.23i.Z
+2026-05-25 13:56:21  WARNING   ABSENT   Jour 242 JPL : jplg2420.23i.Z
+2026-05-25 13:56:25  WARNING   ABSENT   Jour 243 JPL : jplg2430.23i.Z
+2026-05-25 13:56:27  WARNING   ABSENT   Jour 244 JPL : jplg2440.23i.Z
+2026-05-25 13:56:31  WARNING   ABSENT   Jour 245 JPL : jplg2450.23i.Z
+2026-05-25 13:56:33  WARNING   ABSENT   Jour 246 JPL : jplg2460.23i.Z
+2026-05-25 13:56:35  WARNING   ABSENT   Jour 247 JPL : jplg2470.23i.Z
+2026-05-25 13:56:37  WARNING   ABSENT   Jour 248 JPL : jplg2480.23i.Z
+2026-05-25 13:56:40  WARNING   ABSENT   Jour 249 JPL : jplg2490.23i.Z
+2026-05-25 13:56:42  WARNING   ABSENT   Jour 250 JPL : jplg2500.23i.Z
+2026-05-25 13:56:44  WARNING   ABSENT   Jour 251 JPL : jplg2510.23i.Z
+2026-05-25 13:56:46  WARNING   ABSENT   Jour 252 JPL : jplg2520.23i.Z
+2026-05-25 13:56:48  WARNING   ABSENT   Jour 253 JPL : jplg2530.23i.Z
+2026-05-25 13:56:50  WARNING   ABSENT   Jour 254 JPL : jplg2540.23i.Z
+2026-05-25 13:56:53  WARNING   ABSENT   Jour 255 JPL : jplg2550.23i.Z
+2026-05-25 13:56:55  WARNING   ABSENT   Jour 256 JPL : jplg2560.23i.Z
+2026-05-25 13:56:57  WARNING   ABSENT   Jour 257 JPL : jplg2570.23i.Z
+2026-05-25 13:56:59  WARNING   ABSENT   Jour 258 JPL : jplg2580.23i.Z
+2026-05-25 13:57:01  WARNING   ABSENT   Jour 259 JPL : jplg2590.23i.Z
+2026-05-25 13:57:03  WARNING   ABSENT   Jour 260 JPL : jplg2600.23i.Z
+2026-05-25 13:57:06  WARNING   ABSENT   Jour 261 JPL : jplg2610.23i.Z
+2026-05-25 13:57:08  WARNING   ABSENT   Jour 262 JPL : jplg2620.23i.Z
+2026-05-25 13:57:11  WARNING   ABSENT   Jour 263 JPL : jplg2630.23i.Z
+2026-05-25 13:57:14  WARNING   ABSENT   Jour 264 JPL : jplg2640.23i.Z
+2026-05-25 13:57:16  WARNING   ABSENT   Jour 265 JPL : jplg2650.23i.Z
+2026-05-25 13:57:18  WARNING   ABSENT   Jour 266 JPL : jplg2660.23i.Z
+2026-05-25 13:57:20  WARNING   ABSENT   Jour 267 JPL : jplg2670.23i.Z
+2026-05-25 13:57:22  WARNING   ABSENT   Jour 268 JPL : jplg2680.23i.Z
+2026-05-25 13:57:25  WARNING   ABSENT   Jour 269 JPL : jplg2690.23i.Z
+2026-05-25 13:57:27  WARNING   ABSENT   Jour 270 JPL : jplg2700.23i.Z
+2026-05-25 13:57:29  WARNING   ABSENT   Jour 271 JPL : jplg2710.23i.Z
+2026-05-25 13:57:31  WARNING   ABSENT   Jour 272 JPL : jplg2720.23i.Z
+2026-05-25 13:57:34  WARNING   ABSENT   Jour 273 JPL : jplg2730.23i.Z
+2026-05-25 13:57:38  WARNING   ABSENT   Jour 274 JPL : jplg2740.23i.Z
+2026-05-25 13:57:40  WARNING   ABSENT   Jour 275 JPL : jplg2750.23i.Z
+2026-05-25 13:57:43  WARNING   ABSENT   Jour 276 JPL : jplg2760.23i.Z
+2026-05-25 13:57:46  WARNING   ABSENT   Jour 277 JPL : jplg2770.23i.Z
+2026-05-25 13:57:48  WARNING   ABSENT   Jour 278 JPL : jplg2780.23i.Z
+2026-05-25 13:57:50  WARNING   ABSENT   Jour 279 JPL : jplg2790.23i.Z
+2026-05-25 13:57:52  WARNING   ABSENT   Jour 280 JPL : jplg2800.23i.Z
+2026-05-25 13:57:54  WARNING   ABSENT   Jour 281 JPL : jplg2810.23i.Z
+2026-05-25 13:57:57  WARNING   ABSENT   Jour 282 JPL : jplg2820.23i.Z
+2026-05-25 13:57:59  WARNING   ABSENT   Jour 283 JPL : jplg2830.23i.Z
+2026-05-25 13:58:02  WARNING   ABSENT   Jour 284 JPL : jplg2840.23i.Z
+2026-05-25 13:58:05  WARNING   ABSENT   Jour 285 JPL : jplg2850.23i.Z
+2026-05-25 13:58:07  WARNING   ABSENT   Jour 286 JPL : jplg2860.23i.Z
+2026-05-25 13:58:11  WARNING   ABSENT   Jour 287 JPL : jplg2870.23i.Z
+2026-05-25 13:58:13  WARNING   ABSENT   Jour 288 JPL : jplg2880.23i.Z
+2026-05-25 13:58:16  WARNING   ABSENT   Jour 289 JPL : jplg2890.23i.Z
+2026-05-25 13:58:18  WARNING   ABSENT   Jour 290 JPL : jplg2900.23i.Z
+2026-05-25 13:58:21  WARNING   ABSENT   Jour 291 JPL : jplg2910.23i.Z
+2026-05-25 13:58:25  WARNING   ABSENT   Jour 292 JPL : jplg2920.23i.Z
+2026-05-25 13:58:30  WARNING   ABSENT   Jour 293 JPL : jplg2930.23i.Z
+2026-05-25 13:58:34  WARNING   ABSENT   Jour 294 JPL : jplg2940.23i.Z
+2026-05-25 13:58:36  WARNING   ABSENT   Jour 295 JPL : jplg2950.23i.Z
+2026-05-25 13:58:38  WARNING   ABSENT   Jour 296 JPL : jplg2960.23i.Z
+2026-05-25 13:58:43  WARNING   ABSENT   Jour 297 JPL : jplg2970.23i.Z
+2026-05-25 13:58:46  WARNING   ABSENT   Jour 298 JPL : jplg2980.23i.Z
+2026-05-25 13:58:48  WARNING   ABSENT   Jour 299 JPL : jplg2990.23i.Z
+2026-05-25 13:58:51  WARNING   ABSENT   Jour 300 JPL : jplg3000.23i.Z
+2026-05-25 13:58:53  WARNING   ABSENT   Jour 301 JPL : jplg3010.23i.Z
+2026-05-25 13:58:55  WARNING   ABSENT   Jour 302 JPL : jplg3020.23i.Z
+2026-05-25 13:58:57  WARNING   ABSENT   Jour 303 JPL : jplg3030.23i.Z
+2026-05-25 13:58:59  WARNING   ABSENT   Jour 304 JPL : jplg3040.23i.Z
+2026-05-25 13:59:01  WARNING   ABSENT   Jour 305 JPL : jplg3050.23i.Z
+2026-05-25 13:59:03  WARNING   ABSENT   Jour 306 JPL : jplg3060.23i.Z
+2026-05-25 13:59:08  WARNING   ABSENT   Jour 307 JPL : jplg3070.23i.Z
+2026-05-25 13:59:10  WARNING   ABSENT   Jour 308 JPL : jplg3080.23i.Z
+2026-05-25 13:59:12  WARNING   ABSENT   Jour 309 JPL : jplg3090.23i.Z
+2026-05-25 13:59:14  WARNING   ABSENT   Jour 310 JPL : jplg3100.23i.Z
+2026-05-25 13:59:17  WARNING   ABSENT   Jour 311 JPL : jplg3110.23i.Z
+2026-05-25 13:59:19  WARNING   ABSENT   Jour 312 JPL : jplg3120.23i.Z
+2026-05-25 13:59:21  WARNING   ABSENT   Jour 313 JPL : jplg3130.23i.Z
+2026-05-25 13:59:24  WARNING   ABSENT   Jour 314 JPL : jplg3140.23i.Z
+2026-05-25 13:59:29  WARNING   ABSENT   Jour 315 JPL : jplg3150.23i.Z
+2026-05-25 13:59:32  WARNING   ABSENT   Jour 316 JPL : jplg3160.23i.Z
+2026-05-25 13:59:34  WARNING   ABSENT   Jour 317 JPL : jplg3170.23i.Z
+2026-05-25 13:59:39  WARNING   ABSENT   Jour 318 JPL : jplg3180.23i.Z
+2026-05-25 13:59:43  WARNING   ABSENT   Jour 319 JPL : jplg3190.23i.Z
+2026-05-25 13:59:45  WARNING   ABSENT   Jour 320 JPL : jplg3200.23i.Z
+2026-05-25 13:59:49  WARNING   ABSENT   Jour 321 JPL : jplg3210.23i.Z
+2026-05-25 13:59:51  WARNING   ABSENT   Jour 322 JPL : jplg3220.23i.Z
+2026-05-25 13:59:53  WARNING   ABSENT   Jour 323 JPL : jplg3230.23i.Z
+2026-05-25 13:59:55  WARNING   ABSENT   Jour 324 JPL : jplg3240.23i.Z
+2026-05-25 13:59:58  WARNING   ABSENT   Jour 325 JPL : jplg3250.23i.Z
+2026-05-25 14:00:00  WARNING   ABSENT   Jour 326 JPL : jplg3260.23i.Z
+2026-05-25 14:00:02  WARNING   ABSENT   Jour 327 JPL : jplg3270.23i.Z
+2026-05-25 14:00:04  WARNING   ABSENT   Jour 328 JPL : jplg3280.23i.Z
+2026-05-25 14:00:07  WARNING   ABSENT   Jour 329 JPL : jplg3290.23i.Z
+2026-05-25 14:00:09  WARNING   ABSENT   Jour 330 JPL : jplg3300.23i.Z
+2026-05-25 14:00:13  WARNING   ABSENT   Jour 331 JPL : jplg3310.23i.Z
+2026-05-25 14:00:16  WARNING   ABSENT   Jour 332 JPL : jplg3320.23i.Z
+2026-05-25 14:00:21  WARNING   ABSENT   Jour 333 JPL : jplg3330.23i.Z
+2026-05-25 14:00:23  WARNING   ABSENT   Jour 334 JPL : jplg3340.23i.Z
+2026-05-25 14:00:27  WARNING   ABSENT   Jour 335 JPL : jplg3350.23i.Z
+2026-05-25 14:00:29  WARNING   ABSENT   Jour 336 JPL : jplg3360.23i.Z
+2026-05-25 14:00:31  WARNING   ABSENT   Jour 337 JPL : jplg3370.23i.Z
+2026-05-25 14:00:33  WARNING   ABSENT   Jour 338 JPL : jplg3380.23i.Z
+2026-05-25 14:00:35  WARNING   ABSENT   Jour 339 JPL : jplg3390.23i.Z
+2026-05-25 14:00:38  WARNING   ABSENT   Jour 340 JPL : jplg3400.23i.Z
+2026-05-25 14:00:40  WARNING   ABSENT   Jour 341 JPL : jplg3410.23i.Z
+2026-05-25 14:00:42  WARNING   ABSENT   Jour 342 JPL : jplg3420.23i.Z
+2026-05-25 14:00:45  WARNING   ABSENT   Jour 343 JPL : jplg3430.23i.Z
+2026-05-25 14:00:50  WARNING   ABSENT   Jour 344 JPL : jplg3440.23i.Z
+2026-05-25 14:00:53  WARNING   ABSENT   Jour 345 JPL : jplg3450.23i.Z
+2026-05-25 14:00:55  WARNING   ABSENT   Jour 346 JPL : jplg3460.23i.Z
+2026-05-25 14:00:59  WARNING   ABSENT   Jour 347 JPL : jplg3470.23i.Z
+2026-05-25 14:01:02  WARNING   ABSENT   Jour 348 JPL : jplg3480.23i.Z
+2026-05-25 14:01:04  WARNING   ABSENT   Jour 349 JPL : jplg3490.23i.Z
+2026-05-25 14:01:07  WARNING   ABSENT   Jour 350 JPL : jplg3500.23i.Z
+2026-05-25 14:01:11  WARNING   ABSENT   Jour 351 JPL : jplg3510.23i.Z
+2026-05-25 14:01:21  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 14:01:28  WARNING   ABSENT   Jour 352 JPL : jplg3520.23i.Z
+2026-05-25 14:01:31  WARNING   ABSENT   Jour 353 JPL : jplg3530.23i.Z
+2026-05-25 14:01:33  WARNING   ABSENT   Jour 354 JPL : jplg3540.23i.Z
+2026-05-25 14:01:41  WARNING   ABSENT   Jour 355 JPL : jplg3550.23i.Z
+2026-05-25 14:01:51  ERROR       Erreur inattendue : ("Connection broken: ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)", ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)) - tentative 1/3
+2026-05-25 14:01:58  WARNING   ABSENT   Jour 356 JPL : jplg3560.23i.Z
+2026-05-25 14:02:00  WARNING   ABSENT   Jour 357 JPL : jplg3570.23i.Z
+2026-05-25 14:02:02  WARNING   ABSENT   Jour 358 JPL : jplg3580.23i.Z
+2026-05-25 14:02:06  WARNING   ABSENT   Jour 359 JPL : jplg3590.23i.Z
+2026-05-25 14:02:08  WARNING   ABSENT   Jour 360 JPL : jplg3600.23i.Z
+2026-05-25 14:02:10  WARNING   ABSENT   Jour 361 JPL : jplg3610.23i.Z
+2026-05-25 14:02:12  WARNING   ABSENT   Jour 362 JPL : jplg3620.23i.Z
+2026-05-25 14:02:14  WARNING   ABSENT   Jour 363 JPL : jplg3630.23i.Z
+2026-05-25 14:02:16  WARNING   ABSENT   Jour 364 JPL : jplg3640.23i.Z
+2026-05-25 14:02:18  WARNING   ABSENT   Jour 365 JPL : jplg3650.23i.Z
+2026-05-25 14:02:19  INFO      ============================================================
+2026-05-25 14:02:19  INFO      RÉSUMÉ DU TÉLÉCHARGEMENT
+2026-05-25 14:02:19  INFO        Fichiers téléchargés : 583
+2026-05-25 14:02:19  INFO        Fichiers absents     : 147  (jours manquants sur CDDIS)
+2026-05-25 14:02:19  INFO        Échecs               : 0
+2026-05-25 14:02:19  INFO      ============================================================
