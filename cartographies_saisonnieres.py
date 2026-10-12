@@ -28,6 +28,7 @@ RÉSULTATS :
 import numpy as np
 import matplotlib.pyplot as plt
 import os
+from outils_figures import sauver_figure
 from datetime import datetime, timedelta
 
 # =============================================================================
@@ -109,7 +110,7 @@ def fig_cartes_diff_saisons(tec_code, tec_jpl, nom_fich):
     fig.suptitle("Cartes de différence TEC CODE − JPL par saison — 2023",
                  fontweight='bold', fontsize=14)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -148,7 +149,7 @@ def fig_cartes_absolues_saisons(tec_code, tec_jpl, centre, nom_fich):
     fig.suptitle(f"Cartes TEC {centre.upper()} par saison — 2023",
                  fontweight='bold', fontsize=14)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -180,7 +181,7 @@ def fig_profils_latitudinaux(tec_code, tec_jpl, nom_fich):
     ax.legend(fontsize=10, loc='best')
     ax.grid(True, alpha=0.3)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 

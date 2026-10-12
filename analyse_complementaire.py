@@ -26,6 +26,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import os
+from outils_figures import sauver_figure
 from tqdm import tqdm
 from datetime import datetime, timedelta
 
@@ -41,6 +42,7 @@ DOSSIER_BASE  = "data/base_tec"
 DOSSIER_STATS = "data/stats"
 DOSSIER_FIGS  = os.path.join(DOSSIER_STATS, "figures")
 os.makedirs(DOSSIER_FIGS, exist_ok=True)
+
 
 ANNEE = 2023
 LAT   = np.linspace(87.5, -87.5, 71)
@@ -208,7 +210,7 @@ def fig_mbe_pct(jours_communs, mbe_pct, nom_fich):
     ax.legend(fontsize=10)
     ax.grid(True, alpha=0.25)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -234,7 +236,7 @@ def fig_comparaison_mbe_absolu_pct(jours_communs, mbe, mbe_pct, nom_fich):
     ax2.legend(fontsize=10)
     ax2.grid(True, alpha=0.25)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -290,7 +292,7 @@ def fig_mbe_par_bandes(jours_communs, stats_bandes, nom_fich):
     ax.legend(fontsize=8, loc='lower right')
     ax.grid(True, alpha=0.25)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -316,7 +318,7 @@ def fig_barres_bandes(resultats_bandes, nom_fich):
     for i, v in enumerate(rmses):
         ax2.text(v + 0.02, i, f"{v:.3f}", va='center', ha='left', fontsize=9)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -345,6 +347,19 @@ def telecharger_centres_fevrier():
                     print(f"    ✗ {centre} j{jour_str} : introuvable dans {dossier}")
     return fichiers_disponibles
 
+def aligner_13_epoques(tec):
+    """
+    Ramène un jeu de cartes journalier à 13 époques communes (pas de 2 h).
+    Le pas de sous-échantillonnage est déduit du nombre de cartes :
+    25 cartes -> pas 2 ; 49 cartes -> pas 4 ; 13 cartes -> pas 1.
+    """
+    n = tec.shape[0]
+    if (n - 1) % 12 != 0:
+        raise ValueError(f"Nombre de cartes inattendu : {n}")
+    tec13 = tec[0::(n - 1) // 12]
+    assert tec13.shape[0] == 13
+    return tec13
+
 def analyser_multi_centres(fichiers_disponibles):
     print("\n>>> Analyse multi-centres sur l'événement du 27-28 février 2023...")
     resultats = {}
@@ -353,7 +368,12 @@ def analyser_multi_centres(fichiers_disponibles):
         for jour_str, chemin in jours.items():
             try:
                 data = lire_ionex(chemin)
-                tec  = data['tec']
+                # Alignement sur les 13 époques communes (0 h, 2 h, ..., 24 h),
+                # conformément à la section 3.4 du mémoire :
+                #   CODE (25 cartes, 1 h)   -> une carte sur 2
+                #   CAS  (49 cartes, 30 min) -> une carte sur 4
+                #   JPL, ESA, UPC (13 cartes, 2 h) -> inchangés
+                tec  = aligner_13_epoques(data['tec'])
                 tec_glob = float(np.nanmean(tec))
                 bandes_res = {}
                 for nom, lat_min, lat_max in BANDES:
@@ -428,7 +448,7 @@ def fig_multi_centres(resultats, nom_fich):
                  "Événement géomagnétique 27-28 février 2023",
                  fontweight='bold', fontsize=13)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -453,7 +473,7 @@ def fig_cartes_evenement(tec_code, tec_jpl, nom_fich):
                  "Événement géomagnétique — 27-28 février 2023",
                  fontweight='bold', fontsize=13)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 

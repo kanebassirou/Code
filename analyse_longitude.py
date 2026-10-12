@@ -14,6 +14,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import os
+from outils_figures import sauver_figure
 from tqdm import tqdm
 from datetime import datetime, timedelta
 from scipy.stats import pearsonr
@@ -181,7 +182,7 @@ def fig_serie_zones(jours_communs, resultats, nom_fich):
     ax.legend(fontsize=10, loc='lower right')
     ax.grid(True, alpha=0.25)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -226,7 +227,7 @@ def fig_barres_zones(resultats_annuel, nom_fich):
     fig.suptitle("Comparaison Oc\u00e9an Atlantique vs Am\u00e9rique — 2023",
                  fontweight='bold', fontsize=13)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -249,7 +250,7 @@ def fig_carte_zones_annotee(nom_fich):
     ax.legend(loc='lower left')
     ax.grid(True, alpha=0.2)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PYTHONUTF8=1 PYTHONIOENCODING=utf-8 ./.venv/Scripts/python.exe analyse_complementaire.py)",
+      "Bash(tail -260 /tmp_out.txt)"
+    ]
+  }
+}

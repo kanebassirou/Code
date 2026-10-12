@@ -32,6 +32,7 @@ import matplotlib.ticker as mticker
 from scipy.stats import pearsonr
 from tqdm import tqdm
 import os
+from outils_figures import sauver_figure
 from datetime import datetime, timedelta
 
 # =============================================================================
@@ -201,7 +202,7 @@ def fig_serie(jours, valeurs, titre, ylabel, couleur, nom_fich, ligne_zero=True)
     ax.grid(True, alpha=0.25)
     fig.tight_layout()
     chemin = os.path.join(DOSSIER_FIGS, nom_fich)
-    fig.savefig(chemin, bbox_inches='tight')
+    sauver_figure(fig, chemin)
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -227,7 +228,7 @@ def fig_carte_diff(carte, nom_fich):
     ax.grid(True, alpha=0.2)
     fig.tight_layout()
     chemin = os.path.join(DOSSIER_FIGS, nom_fich)
-    fig.savefig(chemin, bbox_inches='tight')
+    sauver_figure(fig, chemin)
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -263,7 +264,7 @@ def fig_boxplot_mensuel(jours, mbe, nom_fich):
     ax.grid(True, axis='y', alpha=0.25)
     fig.tight_layout()
     chemin = os.path.join(DOSSIER_FIGS, nom_fich)
-    fig.savefig(chemin, bbox_inches='tight')
+    sauver_figure(fig, chemin)
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -289,7 +290,7 @@ def fig_heatmap_lat_mois(mbe_lat_mois, nom_fich):
     ax.grid(True, alpha=0.15)
     fig.tight_layout()
     chemin = os.path.join(DOSSIER_FIGS, nom_fich)
-    fig.savefig(chemin, bbox_inches='tight')
+    sauver_figure(fig, chemin)
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 

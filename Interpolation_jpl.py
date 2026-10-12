@@ -21,6 +21,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d, CubicSpline
 import os
+from outils_figures import sauver_figure
 from datetime import datetime, timedelta
 
 # =============================================================================
@@ -274,7 +275,7 @@ def fig_validation_intrinseque(resultats_validation, nom_fich):
     bars[idx_min].set_linewidth(2.5)
 
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -312,7 +313,7 @@ def fig_comparaison_methodes(jours_communs, resultats, mbe_ref, rmse_ref, nom_fi
     ax2.grid(True, alpha=0.25)
 
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
@@ -346,7 +347,7 @@ def fig_barres_methodes(resultats_tableau, mbe_ref_moy, rmse_ref_moy, nom_fich):
     fig.suptitle("Sensibilité au choix de la méthode d'alignement temporel CODE/JPL",
                  fontweight='bold', fontsize=13)
     fig.tight_layout()
-    fig.savefig(os.path.join(DOSSIER_FIGS, nom_fich), bbox_inches='tight')
+    sauver_figure(fig, os.path.join(DOSSIER_FIGS, nom_fich))
     plt.close(fig)
     print(f"    ✓ {nom_fich}")
 
